@@ -1,0 +1,304 @@
+
+Speaker 0: Now is Map, founder of Med Etf. You have been writing and talking about the meta?
+
+Speaker 1: So Matthew, Tell us, Can we start with what the med is not? I'm often asked these questions, why do you believe the meta is singing? And if you can't fully predict the future. That's because of the recur of technology, and the ways in which these new technologies lead to different behaviors and different experiences.
+
+Speaker 2: Touch the evolution of the meta we talk the prediction of the that we touched, you know, data protection. We touched the Ai programmatic generated content.
+
+Speaker 1: We underestimated how much it sophistication was needed to. The person's real, the situation looks real? The image looks real? The context is fictitious, But does that go okay wire on social, absolutely. I have a tough time imagining that anything will fully substitute for.
+
+Speaker 3: Hello, and welcome to field of you the podcast where we expand your horizon of the meta. My name is Daniel K from Ai xr.
+
+Speaker 2: And my name is Nick rosa from Ak accenture. And today, we have a very, very exciting guest. We have the person that literally started the movement of, deep analysis of the meta smart it. We have the person that brought some of the most important it essays about that matter. And recently published a book called, the met and how it will revolutionize everything.
+
+Ladies and gentlemen, today, we have the real master of the matters means met. Hi, Met. How you doing?
+
+Speaker 1: I'm great and really excited to be here today.
+
+Speaker 2: Thank you so much for joining. So as we usually do, we always ask to our guests to start with a little bit of their origin story. We would like to understand a bit more about, your passions, your background and what to you two cover the math as you do right now.
+
+Speaker 1: Sure. That's a fun place to start. My work experience has been pretty diversified in the two thousands I was a wildfire initial attack. It was a full time gig. I started my own business, issuing professional boating craft licenses on behalf the Canadian coast guard before shifting to private equity.
+
+I focused primarily on the virtualization of and systems. That's kind of your early tip towards this outcome. And then I shifted to Accenture, which, of course, you know well I spent five years in the T strategy practice, really up and down telecom publishing, video game Interactive, Hollywood, and some of the hardware and Oem providers, including even in automotive. And then I shifted towards a company called the Churning group. We built bought developed and scaled many of the first digital first communities, companies like Crunchy Roll and Bar sports, Twitter Media, Pandora Sound cloud where we were majority shareholders at some point.
+
+Then I joined Amazon where was the first global head of strategy for Amazon Studios. Then I started my own firm in twenty eighteen focus on gaming and a little known topic then at least as related to the mainstream the med. So in that period, I've developed skill sets in terms of deep simulation technologies for infrastructure and understanding of the global media environment, the technologies that it requires servicing customers and then building at one of the world's largest media business. And that was a nice convergent point for this super convergent technology. But my interest in it, like, I I would assume both of you.
+
+Spends decades. I've always been obsessed with video games in virtual worlds with storytelling in the ways in which technology was changing both of those. And it was my experiences in twenty eighteen, really playing a lot of Fortnite spending a lot of time on the roblox platform, which led me to believe that this thirty year old term century old concept and long attempted idea was starting to unfold around us.
+
+Speaker 2: And now you are an author. You just published, wonderful book called the the meta, and now it will revolutionize everything. And you're touring the world. How's life as an author?
+
+Speaker 1: It's it's been fun. It's been exhausting. I think it's been extraordinary beyond just the specific field of application in the sense that, you know, at Amazon, I helped to oversee billions of dollars in programming investment I was primarily in content strategy. So what are we going to Green light? And then afterwards would return to evaluate it?
+
+And just going through the process of, as you know, end to end content creation, marketing the key decisions on promotion, reading the reviews, owning the outcome. In a very different sense has not just been fun and thrilling, the public publicity fund, the feedbacks fun, but it's so illuminati to everything else as you're in and around this this space.
+
+Speaker 2: Is this your First. Right?
+
+Speaker 1: Yes. Wow. First, at least only. Well,
+
+Speaker 2: I fun never say Never.
+
+Speaker 3: I find it interesting Right? Because I think, well, this is, like your first, like, published book. You've been writing kind of on these topics for a very long time and publishing some really useful insights on a a quite a vast array on of different digital and and technological aspects and things as well. Right?
+
+Speaker 1: Yeah. I started writing in twenty thirteen. I was at accenture still at at the time, At least, as public blogger, it might have been twenty twelve. And, you know, the the interesting thing about it is is you're quite right that it's pretty broad in its covered. That's a reflection of my professional expertise, but my interest, but I also think it's an linked with this field.
+
+In my book, I go into great lengths to talk about the many different intersecting pieces of technology. The meta can't just be thought of as Xr hardware. It can't just be thought of as hardware. You have to think of it as computing processors and network chips and standards and... Excuse me.
+
+And the rest of it, And so understanding this from multiple different angles in professional interest and professional history and personal expertise, spending a decade str through various themes as an author was pretty essential. I wrote the book over a six month period. It was the culmination of four prior years writing on that theme, but a decade of writing on other themes in and around without that, it wouldn't have been possible or certainly not as good.
+
+Speaker 3: I mean, there's so many different areas right, that you probably could have written a book about, given your your vast of experience, and especially with, you know, your your experience within the the film and television space and and the production space. What what made you really land on meth earth being, you know, this this topic that you felt needed to to be written about.
+
+Speaker 1: That's a fun question. I mean, look, when I started writing this book, it was two months before my Zuckerberg Ever said his intention to transform into a meta company, and that was itself four months before he renamed the company. And I think you can generally see that as a pivotal moment for it as a mass idea. But my first essay on the theme was twenty eighteen. I had another one in January of twenty twenty.
+
+It was extraordinarily popular. It had a few million reads by the end of that year. It was still doing, you know, ten fifteen thousand a day. And so that plus my overall conviction led me to believe that it was a worthwhile personal undertaking, professional undertaking I believe that it's of such critical importance that making more publicly available the things that I had learned in the space. Which is not available to most people, which reflected large corporate conversations, R and D, I'd participated in, my startup portfolio.
+
+That seemed like it was important and and worthwhile and I had never written a book, but I loved writing. And then, of course, it became the Mo or Danny. Last year. And so that was not predicted and has certainly been helpful while also elevating the stakes that won't publish.
+
+Speaker 2: And what what you just said about the, deep stock of the matter is super important from my point of view because a lot of people believe that the matter versus just at surface that you can see, like, roadblocks of fortnight and In fact, many people refers to them as meta versus, which is from my point of multiverse, which is for my point of view, something that gives me, like, the shiver on my back on my spine because it's, like, saying the Internet because the matter is is, like, an infrastructure. Right? So... But there are so many layers. So there's just one meta and the meta versus an infrastructure.
+
+But the toolbox that's, leaders can utilize in order to apply this new concept to their business and their enterprise is so vast how can from your point of view leaders inspire their teams to start envisioning opportunities with your their area of work. It can be, like networking can be, I know, processors can be a Gpu. What is the spark that they can use and they need to use with their teams.
+
+Speaker 1: Great question. So look, I'm often asked these questions. Why do you believe the meta is so significant. And I don't love the subtitle of my book, how it will revolutionize everything? It's a little bit bombastic for my personality, but I do believe it.
+
+And I think that there are really three ways in which you can unpack I'm... I try to be a first principle incur. And so I I don't wanna talk about a specific ins, but I'll explain at least why I find it exciting. You know, first and foremost, The Internet is one of the most important technological innovations in human history, like, truly over the thousands of years. And we are talking about a successor to.
+
+Fundamental changes in that technology set, should excite all of us because the history tells us society changes, business changes, governments change, the products that we use, the business models that are deployed the way in which leaders and philosophies and corporations are... They're all affected by the internet. The second thing is to recognize or as part of that, we're not just talking about a revolution in idea. It's that as you know, building the meta requires deep alterations and enhancements to everything upon which the Internet is built. Tcp Ip, networking infrastructure, hardware itself.
+
+And so if you already believe the Internet is remarkable, which it is. It's twenty percent of the global economy, and we have to up upgrade most of it in our architecture and design and prioritization, that's a huge opportunity, especially for a business. The second way to think about this is to recognize what makes that change. And I try to articulate that as an example, the real revolution in mobile was not that you suddenly had a computer in your pocket that you had any time access to the Internet as opposed to occasional access to it. Those two points are essential to what I'm gonna say, but they weren't the revolution.
+
+The revolution was that when you did that, you structurally shifted who access to computing and networking resources, when where why and how? Billions of new people use that those two resources they solved problems that they never before imagined. And that is what led to the widespread changed. That's why all of these fields in which we believe the Internet or a personal computer sitting on your desk would not reach... It did reach.
+
+That's exciting to me. And then the third is to talk about some of the instant pronunciations. We're seeing Xr devices used in surgery, We're seeing it now deployed into the military. We're seeing it being used to design buildings with simulation down to the atom, the sound wave. The light in.
+
+To improve energy efficiency. We're seeing h deployed to ease the ai of video conferencing, to produce greater emotional connectivity, I really do believe that when you take those theories at the most high abstraction, the Internet, then talk about how we're changing its architecture. Then talk about what that means for who uses these things. And then just look at some of the primitive deployments. Where we're actually not even talking about the meta.
+
+We're talking about on network. We're talking about a specific application. Right? Xr software is just running an app. Yep.
+
+Two people. They're so remarkable that I find it incredibly inspiring.
+
+Speaker 3: So one of the comments I get a lot when I'm speaking with people in this space. So I I come from a probably a stronger background with with virtual reality and and kind of that that area of space. One of one of the comments I get from when I speak to people, especially in our community at this point in time is that, well, that they consider themselves a a Vr company, but now going forward, they have to call themselves, meta best company. And there's always different things on different semantics and definitions and different things that people go. But do you do you think it's right for, I guess, someone who's maybe been in this space from, you know, twenty seventeen when we really start to see that that full resurgence in maybe twenty fourteen, we're oc.
+
+As and would consider as a Vr company, and then now go into this space, mainly due to all of the the publishing in the media that's going out. They would refer to themselves as a matter best company? Do do we think that's necessarily right or wrong or what what's your take on that?
+
+Speaker 1: The semantics don't really interrupt me. I mean, I'd certainly agree with the perspective that calling something a versus some platform in the is tax economically wrong. The former is. The the the latter would be correct. And yet, as we know, everyone uses the term meta as singular.
+
+Yep. We may find out, my guess would be that we lose that battle. People just call roblox, a med, board will have its med. And over the long term, the whole term will go away. We'll just talk about the Internet, Maybe we say the three d Internet to differentiate ourselves generational from the Internet of the nineties through to today.
+
+And that kind of extends to how I find people saying we're a med first company, a bit of a nuisance, but I've kind of tried to move beyond caring. It reminds me of when companies would just get a dot com in the nineties, and then all of a sudden, they're an Internet company. It's like, okay, you have a web page that doesn't make you a digital company. That's a far more fundamental cultural, financial and philosophical decision. But at the end of the day, while it's easy to be a little bit distributed by how many people are writing on this theme and how random it often seems, it's partly a reflection of the fact that the meta affects everyone.
+
+If it is indeed a successor to the Internet and that means, yes. It sounds a little bit strange when Chevron says, we're gonna grow in the med or Pane. And yet that has to be true for it to be the next generation of the internet. And so it is in some regards both a bug and a feature. That everyone says they're now part of it.
+
+Speaker 2: I have a question that is related to the blockchain and the centralized aspect of the matters. And I think that that's one of the topics that I would like to cover in the next few minutes with you. A lot of people believe that the blockchain technology technologies is a essential part of the creation of the matter being able to token assets, being able to port asset from one platform to the other, being able to securely try transact and affirm the ownership of those assets using this kind of secure technology. But there is a problem from my point of view and I to take you have your take on this. The fact that there are loads of companies that's for because of legacy systems because of legislation, because of policy, because the systems have been built or created in a certain way is impossible to migrate them together towards blockchain technology.
+
+They will always remain centralized Yeah. Meta companies. What's your take? Is the meta destined to be blockchain based or centralized and centralized matter earth companies will go together for a very long time.
+
+Speaker 1: So really fun. And the reality is we have to recognize that even on the most decentralized foundation. Centralization is a byproduct of growth and investment. The web itself is heavily decentralized. And yet our experience on the web is heavily centralized.
+
+We all aggregated towards hotmail and then to Gmail to Facebook, into the decline of Ic q and the absolute devastation of even large programs like Msn. Even when we take a look at crypto platforms. Open has nearly ninety percent share of marketplace transactions of N entities. They don't own your account. They don't have payment information store, and they don't actually fulfill or manage the inventory.
+
+And yet despite that and the fact that they charge more than many other marketplaces. And, of course, you can do a peer to peer transaction for free, I mean, less than network fees for gas, people use open. And now open sea is central with verification and curation, insurance seems likely. They blacklist list and they white list. And so we should understand that these are natural.
+
+They're natural because a central effect is brand is trust is habit, is Ip. That has nothing to do with technical centralization or decent centralization. And so my underlying perspective is that no matter how strong web three tech is and how widely adopted and how widely deployed we'll see central effects, but that's separate from whether or not we see centralization versus decent centralization shift in its poll. If we were decentralized in nineteen ninety three, and we're hyper centralized now, it seems likely that we're gonna shift back towards decent centralization partly. And the question is how much, And that doesn't necessarily require full decent.
+
+But certainly, to the extent in which one wants to say, will we see them side by side? Yes. Why? Because I cannot run a device right now, not really? That is decentralized in operations.
+
+A multiplayer server cannot be decentralized right now, and there are good reasons to believe for the laws of physics, you can never have a decentralized server running a multi user simulation. Not only unless you want to have two or three frames per second at best. And so I do think that the world is going to have only decentralized applications, partially decentralized ones are mostly decentralized, and then entirely centralized ones, and then you'll see trade offs between the two. A little bit like saying, we all have bank accounts. It doesn't mean that we don't also have a petty cash drawer at home.
+
+Speaker 2: Clear. Thank you for your answer. I have another question for you that is more related to the moonshot aspect of the matters. Because right now, we are all operating and and talking about this mythical creature that is the matter that is not yet here fully. I mean, we call to some people.
+
+We can we can
+
+Speaker 3: continue to ask. Right? Well,
+
+Speaker 2: we can we can see that is is about to be a reality is is are a lot of money behind, and there are a lot of companies that are changing their names and they're changing their business in order to make it happen. And obviously, the the the the ball started rolling and is gonna be very difficult to to to stop this snowball from going down the mountain. My question for you is that, you know, we we we've we saw this declaration of you know, the meta that's is gonna revolutionize. I have everything and it's amazing and there a lot of companies believe in it. And we have this vision how much do you think the this vision will become really a reality?
+
+This decentralized world where you can bring your asset from one platform to the other? Because it seems to me that... I mean, our vision of what mobile landscape was going to be in the eighties and then material the two thousand and and two thousand tens was quite different. So do you think that the controversy Indiana is gonna be substantially different from how we imagine it?
+
+Speaker 1: Is it gonna be substantially different from how we imagine it? Yeah. Okay. Of course. It it's funny Like, you know, you were asking what it...
+
+What's it like to be a global author and I've done so many interviews in so many different countries at done three different languages today. And everyone wants to know this answer. Right? What is life like in twenty thirty two? Or how will the change what I do, how I feel and whom I love or or see or just tell me what happens when I wake up in the morning and what I do when I get home.
+
+Yeah. And the inability to answer that question. Is... I think inevitable. And yet folks do expect you to an answer as though it's answer.
+
+And therefore, when you don't or you issue it, most are disappointed, and that's that's totally valid. Look, I'm I'm a little bit disappointed that that, you know, Tim sweeney or Jensen Huang can't just be like, this is the answer. I know it. I've already built it and people do it. That'd would be really fun.
+
+Yeah. And some respond to that with okay. So it's vapor wear. And the answer is we can't know. And and here's why we can't know.
+
+First and foremost, technology is recur. Yep. You create technology, and then that reveals or leads to new behavior. Which is then responded to with this network of other innovations where someone says that's interesting. I didn't know Nick would do that.
+
+And so I'm gonna build a product for Nick. And good examples would be social. No one thought that billions of people wanted to share photos of their daily life. Several times per day. We now produce an estimated eight hundred times more photos in a day than the total photos produced a year in nineteen ninety nine.
+
+You would have reasonably said. Yeah. We'll, create more photos if they're digital and you don't have finite capacity, but no one would have ever estimated that quantum. No one would have ever said the role of deep fakes in now election engineering. And so time tells us we can't fully predict it.
+
+But I also think it's a logical answer of what I mentioned earlier, which is if each era is about transforming who accesses is computing and network working resources, when where why and how the consequences of that are so double triple quadruple triple click compounding that we're just swinging in the dark. Right? What happens when everyone can access effectively unlimited cloud based run runtime? No idea. What happens when everyone can create three d simulation as easily as they can type in whatsapp?
+
+No clue. I don't think we can know.
+
+Speaker 3: So, Sam Matthew, it's quite well documented that your a gamer. Right?
+
+Speaker 1: Yes.
+
+Speaker 3: Yeah. And I I envy you for that because I love to play video game and yet, I I absolutely love the way that you're able to balance, sometimes playing video games and taking meetings, at the same time with them. That's something that I need to employ in my life.
+
+Speaker 2: I I don't think that he it plays games while taking meeting at the same time that I hope
+
+Speaker 1: I oh I definitely do that. But sometimes we put the meetings inside,
+
+Speaker 2: or, you of course.
+
+Speaker 1: But sometimes I get away with it.
+
+Speaker 3: Yeah. But that's that's what I mean, you know, I've been able to jump into and play a fortnite that game with someone and and actually have that meeting at the same time. My
+
+Speaker 2: question here
+
+Speaker 3: is is, like, I've I've read a lot like, okay. You play, you know, quite a few different two d, I guess, like, what I refer to as, like, flat screen kind of games. Obviously, they're free. But, do you do you play any, like, Vr games at all?
+
+Speaker 1: I do. Not as often, partly because little of my social network is, you know, rich originally in them.
+
+Speaker 3: Okay. Because this is... Well was gonna be my question as well. And wanted to jump on a little bit about the the investment in Vc side of things, but it was kind of just... You know, one of the arguments that I've always had at the moment when it comes to, you know, jumping into some of these worlds and and playing on on on, like, a Vr headset as an example is...
+
+Sometimes I get home, and I just want to sit down on the sofa and just relax whereas a lot of vr experiences do require you to be quite active and and kind of active participation because it... It's obviously, you're interacting in in a three environment. So Just just wanted to to understand, I guess, how you as a gamer and also as someone who vividly understands, you know, the direction of the meta, how you think that may develop in in the near future to to bridge that gap between how people traditionally play video games at the moment, and may then integrate that into more aspects of what we're describing as the methodist us?
+
+Speaker 1: Yeah. It's a good question. I mean, one of the challenges as we consider, you know, really interactive mediums overall is... They're not actually that flexible. And look, if we if we take a look at television television, has five and a half hours per day in the United States three hundred million people watching five and a half, hours of television.
+
+Seniors watch seven and a half hours. Tv is an incredible bundle. It's a bundle of genres yes, but a function, education, news, cultural participation, relaxation. It's a bundle of different engagement styles, Lean in your phone's off. The lights are off.
+
+You're watching game of thrones and you love it. And then it is you know, more lean back. That's just where you're watching the average thing. And then there's lean out. Right?
+
+It's in the background. You're ironing, you're doing the dishes, you're doing homework. And then, of course, it's a bundle of many, many different forms of competition and so forth. And so this ex ability of function of purpose of intensity and of access facilitates its cultural dominance. When you take a look at gaming and interactivity, and on the one hand, it's still harder.
+
+When you're talking about Xr, you're talking about putting on devices that isolate you from the rest of the world. And the functions are far far more limited. Now we're seeing growth there, new news is going there. Education is going there, but it's still primarily lean in intense exclusionary behavior with high skill requirements for leisure. And until we see some diversity on each of those axes, I think it's still gonna be constrained.
+
+Speaker 2: I wanted to ask you something a little bit different. We can dive a little bit more into the philosophical aspects of the meta. One of the things that's, a lot of people sometimes don't immediately see in this revolution that the matter gonna bring is the fact that the concept itself of what we call reality in twenty years from now is gonna be completely different. Because a lot of the digital content that is now on those digital platforms that we call Meta platforms right now. Once we're gonna have this dream of the interoperability, we'll bleed down into the real world, and the matter gonna be this connecting tissue between the digital reality and the real world.
+
+And and this promise of know, socially acceptable glasses that will, you know, augment our world and our vision, and we had digital content will paint the world with data. Will create an effect of making us think that the reality augmented, and there's a wonderful book called the reality plus. It. It's it is gonna be something that we cannot proceed from. Is that exactly, like, right now, we do not get out of our house without our mobile phone because our life is more or less meaningful.
+
+We are not connected with people and so on. Do you think that this is gonna have an impact on on the way that we leave our actual life, the the do you think that the real life, the life that we live in the real world will be less meaningful because of it because we're gonna have all these other amazing lives and amazing possibilities of augment our world that will not wanna be able to to to disconnect from this digital world in some way.
+
+Speaker 1: I don't. I mean, I generally One of the all thesis for the meta is it three d and immersion and presence and matter deeply to the human experience. It's more natural.
+
+Speaker 2: Yep.
+
+Speaker 1: For that same reason, I have a tough time imagining, that anything will fully substitute for or even ever really compete. With that real thing. Sitting across from a good friend at a bar, slapping their back is just always going to mean something. Sitting in a foot stadium with sixty thousand cheering fans. I think there will always be something about that that feels richer deeper doesn't matter the frame rate, the resolution, the hap the spatial audio in a Vr device that's just always going to be incredible.
+
+And yet that doesn't mean we won't still close the gap in those other experiences without undermining that other aspect. I'm more interested in the ways in which we can augment for what is lost when that isn't available. I spend a lot of time in these days talking about Hello feet. Because lithography is a good example of substitute or complement, not substitute or a substitute of the tech, not the real thing. Would still be great if we could record this in person.
+
+We can be sitting, making direct eye contact. On a couch laughing. We'd pick up queues differently. We'd be more enriched Zoom is a bad substitute for that. But pornography reaches that in an important way.
+
+And again, I don't think it undermine the real, but where the real is not possible, these technologies are certainly bringing more of that to us.
+
+Speaker 3: What's interesting based on, like, Nick's question there, And I'm just I'm Hoping I'm getting it right Nick. Is, I guess there's this sense that when you have a mobile phone, it's it's almost a a social odd if you do not have that phone with you when you go out. Right? So let's assume for one moment that the same may happen or will happen with augmented reality as an example where we take the these worlds, these digital worlds with us as we go out to to meet friends or to things like that. And, in, honesty, they're is a very real possibility that if you are not connected in with your augmented devices into this kind of, meta us environment that that, you know, you're you're disconnected from pretty much everything that you need to be able to to do things.
+
+And just using that as an example is it more an extreme way. But I guess, like, just the build on next one there is is this world where where we have to be connected. On a even deeper level into the meta really exists. And an example could be, I guess where you know, I don't this is an idea but I absolutely hate, but I can actually see it becoming a a very, very real reality is when someone is wearing an augmented filter for their face or something like that. And, you know, we already have that on Instagram, and and those devices where people will post photos exclusively with a filter or Filter having that in a real time situation is very existing.
+
+There's... It's it's not as easy to just say, just switch it off. Because you you need to be connected into this environment, because everyone else sits just just hot take on that, but Just want to just to ask your opinion on that I guess.
+
+Speaker 1: But, I think that's... I think that that's probably right in the same way that we just know that for certain cohorts of people, For example, a video gaming consoles an important part of their ability to socialize with a specific group of friends. Now, one can ask what's wag the dog, or is the dog wag the tail in the sense of does the critical of that device and that experience reflect the organic interest of that community or are we getting them so that we can then talk to one other if you get my point. It... But it's all circular.
+
+Society changes. When I grew up, socializing was coming home and going on an Irc, chat or a text based message board. And that's no longer a particularly popular, modern form of communication. And those that do require different devices and different experiences. At the same time, I tend to find that the arguments that that is alien or exclusionary tends to be more fleeting than we assume.
+
+Know, if you go back to twenty twelve, there was a lot of alarm as to whether or not the use of ipads and schools would widen the income inequality gap and the educational access. Well, right now the cheapest ipad is one half the cost of the very first iphone, and that's before inflation. Right? The iphone in two thousand seven would be more than grand now and you can get an ipad for two hundred and eighty bucks. And was there a period of time in which the average person couldn't get an ipad of course?
+
+It was una affordable. And so that is to say, society evolves, you will probably need these devices to interact with some of your friends depending on whom your friends are. And for a brief point of time, we'll probably find that these devices are too expensive for everyone to participate in. There's a also an argument that because Xr is so hard that will last longer than just the ipad hold, but it'll compress.
+
+Speaker 2: I now would like to dive a little bit more into the data and translation of the users on the matter. And I have another question after this that is related to the use of deep learning model. In the matters. There are some concerns by many people. And one of the most vocal proponents is Luis Rosenberg that you may know.
+
+That's, the met needs to be regulated as quickly as possible because there's the real danger that the amount of data that will be generated on this platform will be able to create a fingerprint of our behaviors and our needs So perfect that will be almost impossible for us not to be manipulated by companies that are using that amount of data to create deep learning models of sales... Digital salespeople people to sell us things and to make us believe in things and to change our mind on our political views and so on. What's your take on this? What do you think that needs to be regulated on the matters? What's urgent to be regulated on the matters from your point of view?
+
+Speaker 1: I'm certainly a big believer in regulation and that we need to strongly or more strongly influence its development than certainly governments did during the mobile Era. I don't subscribe to the high gary perspective that most technology is for the technology is not neutral, Too many double negatives there. But, you know, if you you take a look at classical. Gary technology theory. You would say that it isn't neutral because we don't understand or appreciate the implicit hold technology has over us.
+
+And that's what leads to both active and passive and sometimes accidental manipulation or behavioral shaping. And we certainly saw that with the social era. Right? It took us a long time. Right?
+
+What happened fifteen years ago? We talked about the filter bubble. But the filter bubble was actually about excluded information. Then we suddenly came around to realize the real per fit was about the reinforcement of radical perspective. It was the inverse perspective on that actual chamber.
+
+And so, look, I believe that that's important. The interesting aspect of this is I believe the meta is inevitable because all of the technologies are being solved every year computing processors become more efficient doesn't matter if Moore's law. Is over, broadband improves in latency and in coverage. But as a result, I'm far more interested not in whether or not the meta is technologically realized, but whether or not the meta as we build it is collectively prosperous and healthy. How do we achieve that?
+
+I think that there are probably three different perspectives. Yep. Take a look at how regulators in particular un bundling, different elements of the ecosystem. Right? Apple grew over twenty years because of its remarkable integration of operating system and hardware, mac and Mac os x, iphone, and ios.
+
+But as the digital realm has grown and matured, we realize that it's actually a bundle of many more things of hardware and offering operating system and first party software and software distribution and identity and payments and of text standards. And I think that governments most notably in the Eu are right to drive un bundling of those, so you have full technological expression and competition at each layer. A second will be on data portability. And as much as the Eu is right to say that we should be standardizing charging ports and that that's good for competition. Look, if Usb c matters, then data, import export metadata coherent matters.
+
+And then the third is probably this question around firmer data rights to the user Data literacy is only going to go so far. We've learned that. We we also know that platforms such as Apple are able to manipulate the portrayal of those warnings. And so I wouldn't be surprised if we started to see overt legislation that just says you cannot have this data. Or you can have this data, but only in, or if you have this data, it has to be custody within national boundaries.
+
+That sort of nuance consideration is going to be key as with overt, prohibition on the use of data for certain activities such as you know, are you... If an Xr device knows that you have kids, which it will know is it allowed to ever report that information?
+
+Speaker 3: But do we think that that this this kind of regulation might actually backfire in a way where we're talking about obviously, really big organizations and companies here, which have the infrastructure, the money, the resource to meet the requirements of regulation, but actually, could this s start ups and new players into the market because they simply don't have the resource to meet the regulation three sundays.
+
+Speaker 1: Will it backfire of course simple backfire? The question is, of course, will it you know, let me put it this way. Will it have side effects and unintended consequences? Will some be per absolutely? At the same time, I'm using think that the right cohesive strategy can avoid some of what you just mentioned.
+
+So for example, if you un bundle all of the layers of competition, while ob compatibility of data. Right? This is point number one and then point number two, you are in theory preventing from isolating or suffocating competition at a given part of the stack. While making it easier for someone to access the information that you do store for that competitive problem. And if you take a look at what Microsoft is unveiled, This came from Brad Smith or Vice Chairman.
+
+He spoke about in great detail that their long term objective is to make it so that all first party services and third party services can access the same platform data. Now, that's an odd Pan. Still gonna be harder. Doesn't mean that a small startup is gonna use it as effectively, but that's important. And then the other element is to recognize that the prohibition on certain data points does diffuse some of that as well.
+
+Because if you are just saying use a non specific example, meta, you can't have that data. Then at least you're chipping away one point of advantage versus this new startup. Generally, generally, reducing the data that can be housed or collected or used in standardizing how third parties can use it and depriving companies of rights of retention, should produce lock, not worsening.
+
+Speaker 2: That's a great answer. I have another question that is related partially to what I asked before. And is related to programmatic generated content using artificial intelligence. We've all seen in the last few months, images of dal, which is this open Ai system that is able to generate images using text input. Linking is full of those images.
+
+People went crazy, and, it's it's incredible. The kind of art that can be generated and and and and photography that can be generated by the systems right now. And obviously, is not a, you know, science fiction to think that in the future, this content can be three dimensional and potentially be used in order to create programmatic worlds on demand for Meta platforms and for the users? My question for you is is the future of content creation in the matter driven by Ai system? And if so, can these be eventually tied to the population of the user needs in order to create a sort of a nirvana for the users where the user will never want to leave.
+
+Again, a sort of a metrics kind of scenario where everything is so perfect, and everything is so amazing that the computer will always know what you need based on your dopamine need and top hits.
+
+Speaker 1: So history suggests that we're only ever, you know, ambitious in that sort of fear. That the full predicted dopamine feedback loop of everything that you might ever want. Yeah. You know, it's a it's a bit like the drawings of the sixty saying we'd have colonized the earth the moon by now. At the same point, I think as much as we overestimate the pace of technological progress, we underestimated how much sophistication was needed to manipulate us all the same.
+
+Right? Text in an algorithm. Missing and disinformation has proven pretty robust despite having relatively little behind it other than just a social graph. And interest graph. I'll tell you something distressing that I saw the other day, which is, you know, there are a few different systems that are being used like Dolly and Dolly does not allow you to make images of living persons, and they do not allow certain themes.
+
+Right? The holocaust, nine eleven. But there are others that are fully open source, which I'll not name here that can be used. Instantly. You have thirty seconds to produce an image of remarkable fidelity in two d.
+
+And what happened five days ago on nine eleven was a number of individuals who were creating fake images of real firefighters taking selfies joyful on ground zero the day of. Arguing that this was an inside job. The person's real, the situation looks real, the image looks real, the context is fictitious, But does that go haywire on social? Absolutely. And so that's actually relatively primitive, experiential.
+
+Technologically, it's fairly sophisticated. And it's not too... It's not three d yet. And it's also not moving. That is terrifying, and it should be terrifying.
+
+Speaker 2: Yep. And and this disconnects very well to what we were talking about before about the need of regulation of this kind of technologies. Right?
+
+Speaker 1: Yeah. Absolutely. I mean, it it This is where we talk about the backfire? Right? What's the backfire about standardization?
+
+Well, we don't yet know what the best standards and conventions and file formats and metadata teachers are for the meta. We can mandate them and then realize they were wrong, and now companies will never be able to afford porting over, will be have sub optimized systems, you know, like, I joke at the fact that the Gif file format is dreadful and it remains the standard. And we can't have such crappy standards in the meta. And yet, we're all moving to m mp four and that's great. And so there are consequences of this.
+
+You s innovation, you will destroy some companies. You will prevent some companies from emerging. If you start to regulate how Ai and procedural image generation is being used, there will be adverse consequences. I personally don't have a problem saying, you know, the side effects of forcing people to get licenses for the database that they read for their Ai generative art programs. Is a good thing, saying that you can't use real persons.
+
+It's probably a good thing, limiting you're right for usage, probably a good thing. Like, those barriers seem intuitive to me in much the same way. It's not hard to drive a get a driver's license, but you do need one, and there are consequences for using one responsibly.
+
+Speaker 3: So tapping into the experience that you've been building kind of over over these many years. And, obviously, insight into us. One of the things that know that you you align on which really goes hand in hand a fork process that I've I've had. And I always have to bang on about with people, which is about when we're talking about bringing things into the fold of of meta, we need to be not just... I, I guess creating gimmicks.
+
+So not just creating what we can replicate within the real world, directly one to one towards this technology. Right. And I know, but analogy you you've given before was, about how how, for example, online date insights, you know, you've spend a long, very long time filling out contact information on there and to try and find your matches versus is the mobile ones, like like Tinder is an example where you just spend three seconds a swipe, and that's a differentiation between the the the technology stacks there. So I'm a I'm a startup up or I'm a a a a founder in in this space, and I'm coming to to pitch you a an idea or a company that centers around methodist. What do I have to say to you to make you say, I'm in like, straight away.
+
+Speaker 1: Sure. So there's a few different ways to take this. Look, I think what you're relating to, which is this online dating example really brings back to point something that was discussed earlier that that I know Nick believes, which is If you can't fully predict the future, that's because of the recur of technology, and the ways in which these new technologies lead to different behaviors and different experiences, which we can't currently envision. And the other example that I use is that if you take a look at what was progressive thinking about publishing in the late nineties, it was that you have a printer at home that prints out the newspaper every morning. And if you were radical, you'd say, yeah.
+
+Have but it's personalized and what does personalized mean there? Well, if you don't read the sports section, you don't get the sports section. They say paper and ink. You don't like business. You don't get those sections.
+
+That was radical. And yet, the future, of course, was a version of the New york Times that had no fixed edition. Yes. There's a daily New York Times, but most people don't experience it that way. The articles are indefinitely updated.
+
+And actually, what was the future of news? The un unlabeled newspaper in a news field algorithm recommended. And so the first thing that I look for from entrepreneurs is where they're playing with more feces on the area of dimension, Not there's no longer distribution. We're printing at home, not we're skipping the sections they don't want. It's about saying, distribution is no longer the problem.
+
+Content is no longer fixed in time. How does that change the product of news? Well, you can now date from anywhere on your mobile device. Well, if you're standing on line board, why wouldn't you date? Well, you can't stand in line dating and fill out a three hundred question survey, It's not the appropriate way, but you can swipe a bunch.
+
+Times. And so I look for the founders who are playing with more dimensions in a red productive way, assuming the world is going to be more different than it is the same or just plainly reproduced. But my favorite type of entrepreneur is really... Those who have spent fifteen years trying to solve these problems within a large company, not because they're jade, but that can be good too. But because they basically spent fifteen years building up the interpersonal network for hiring, and basically, spending millions of dollars on corporate R and D to figure out what doesn't doesn't work.
+
+And that company in their job history is effectively on the table for free. And therefore, they say, I still wanna solve this problem, they instinctively need to solve this problem. I know who to hire to do it. And I know the first three things you don't try to do.
+
+Speaker 3: That makes a lot of sense. I think that, you know, like, there's a lot of founders and start up kind of people out there that, tend to to to jump into this space or try to think that. Okay, just because they have a brilliant kind mess us idea or something something like that, that it's instantly gonna get picked up. What what do you also think about? I mean, the one thing I always hear investors always say is demonstration of traction.
+
+Where... Which can be particularly hard in this space when you're relying on other companies and other kind of hardware and things like that, and it's still quite early days. So so what's your, your know, view on that?
+
+Speaker 1: Sorry on the on the hardware front, but we're about... No.
+
+Speaker 3: Just like, on on the traction side of things.
+
+Speaker 1: You know, I mean, look... One of the fun things about being an investor in the space is you need evidence of product market fit, and yet you also assume that the entire world's going to get blown open. And you have to discern those two things can sometimes be delayed, fit with what a cap can be? Let me give you an example because I just spoken buzz words. Right?
+
+Like, Ro roblox released in two thousand and six. No one cared about it for twelve years. No one really heard about it until twenty twenty. The curve of that company's engagement is linear, but it's not steep for a decade. And you could just as easily say this thing is topping out, as you can say, it's just maturing slowly.
+
+And the answer was a mixture of technological improvements of the product, but also technological improvements of the devices and also about generational change of new young people, Gen z and Gen alpha, in particular. And so you can just just easily see non product market fit, stalled product market fit clear, deferred momentum. And that's a thesis game. That's what makes this hard. That's where you see asymmetric bets or more importantly what I call, like, thesis arbitrage?
+
+It's just... Do you believe in the in of a specific future more than everyone else? And therefore, will you accept valuation, take a bet weight longer than others. And in the case of Roblox, I would argue that half of what it was was their patience and half of it was Apple coming out with the ipad. And that is to some extent what we're talking about with Xr.
+
+At the same time, there's the reverse case. These are companies, and I would argue some of the major meta style dating plan forms are an example of this, which is they've stalled out because they were not as big as they imagined. The rei imagination of a dating category. Let's just have avatars and play mobile games was not the right expression. It was your New York times but printed at home.
+
+What if tinder button three d, not deeply thought out enough. But I could be wrong. It could just be on that horizontal part of the roblox screw.
+
+Speaker 2: Matt, thank you so much for being with us. Has been an absolute pleasure and Honor being having you on our podcast. I just wanted to remind to all of our listeners that there's your book that is out is called, the and how it will revolutionize everything. Sorry. I'll say it again, the math and how it will revolutionize everything.
+
+Mathieu you. Thank you again for finding some time in your very busy schedule too talk You.
+
+Speaker 0: I do like to date the modern era of Vr to when I was putting duct tape and hot glue on Palmer Luck prototype rift for e three in two thousand and twelve.
+
+Speaker 1: Did you know you can catch this full episode of field of view, and more by subscribing on Youtube. Spotify, Apple Music or wherever you get your podcasts to not miss another immersive technology moment. Subscribe today.

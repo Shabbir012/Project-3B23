@@ -1,0 +1,190 @@
+
+Speaker 0: The meta emerging is the next big technology platform, attracting online game makers social networks and plenty of investment. And share there's lots of hype surrounding the meta, but there's also lots of substance, development, and exciting trends. On this podcast series into the meta, brought to you by Bloomberg Intelligence, who will break down the biggest developments and bring on the most interesting minds who are building, investing in and experiencing the. Welcome once again to another exciting episode of into the med brought to you by Bloomberg Intelligence. I'm Matthew Ka, a senior equity research analyst.
+
+Bloomberg Intelligence, and my c host, Y Ras Friedman, the Ceo and c founder of Super social are your hosts. We're super excited to have a really great guest join us today to break down the really exciting landscape of Med Etfs. Bloomberg Intelligence is Asia Etf analyst, Rub rebecca. Welcome Rebecca.
+
+Speaker 1: Thank you for having me. Very excited to be beyond.
+
+Speaker 0: And so if you couldn't tell, Rebecca is my colleague here in Hong Kong, and we're really excited to get on together because, you know, we've had lots of excellent coverage. Sessions together. She's done a lot of work on meta Etfs for Bloomberg professional subscribers. That research is available on the B t dashboard, b t go. A couple episodes ago.
+
+We had a really great conversation with Mario from Round hill investment, so they have the round hill ball Med Etf. It's ticker m me Tv. Previously was meta, and there's a lot of back to why they changed it that we probably won't get into today. But, you know, since then, the landscape has truly exploded for Meta Ct etfs. And it's becoming quite exciting.
+
+But before we dive into Meta Etfs, Rebecca, we do have to ask our favorite question that we pose to every guest, And I granted your view might just be a little bit skewed because you sit next to me at work. But in your view, you know, what is the meta? And I think we like to say it's more important to say what is not the meta?
+
+Speaker 1: I'll have to be honest is before joining Bloomberg I had never really heard of the word meta. Until I met Matt. And if memory serves me correctly, this is one of the first thing that they mentioned to me even the interview process. They were like, you know, there's someone by the name of Matthew Ka. He's really well known and he's done a lot of research in the med.
+
+And so, yes, my opinion is probably skewed because I sit right next to, but I also learn a lot from you, so I can't complain. So for me, The meta is really a shared virtual space, whether that be live entertainment, playing video games together or socializing online, All of these things and trends that are merging to create something new. And so that's what I consider as the meta.
+
+Speaker 0: I think that's a really concise great view of it. And I think what's important that you mentioned is it's about bringing people together. I think that's, y, you know, you've talked a lot about that's the reason you started super social when you did. It's because, you know, you realized that the onset of the pandemic that the meta is just the next form of human interaction.
+
+Speaker 2: A hundred percent. And I mean, you know, that's kind of embedded also in the name of the company, super social because the hypothesis is that the meta is gonna be more social, more immersive, more expressive. And as human beings, I mean, really we are social creatures who want to interact. We want to do things together, We want to create together, we want to play together. And to me, that's what's sort of really, really exciting about the meta as a place for human experience, human interaction, playing, working, doing things together.
+
+It doesn't mean always that it's gonna be with a certain kind of form factor on our head as we like to talk a lot about the meta is not a Vr headset, and you're not gonna access the matter exclusively from a Vr headset. You would like the access it from a multitude of form factors, the devices and platforms. And so, Rebecca, I think what you're describing is well aligned with what have we have been sort of preaching. And and also talking to some phenomenal people in past episode. And so, Rebecca is you, as you've looked at at the market earlier this year, actually late last year, Facebook changed their name to Meta, And then earlier Dc just quite recently, they finally got the ticker meta.
+
+So now the the story is well rounded. And you have been forecasting that Med Eds would hit two billion of assets under management by the end of twenty twenty one. Many people thought that was aggressive. And then almost overnight, you know, we we think it kind of went from about a hundred million and breached the two billion mark that you've outlined. And so not only your a trail laser, but also, how big do you think the meta Ed can get, let's say, over the next five years, three to five years.
+
+And what sort of the the rationale behind those assumptions?
+
+Speaker 1: So to provide some context for the audience. When I first joined Bloomberg intelligence and in August, my first meta Etf piece came out in early October. Well before Facebook said they were going to re brand. And I said that by twenty twenty four, Med Etfs could reach eighty billion in assets. And I remember getting laughed at but my colleague saying that I was way off and off by at least a factor of ten and that this was impossible.
+
+By the end of twenty twenty one, Assets had surpassed two billion, and there was already a very long list of Etf issuers in the pipeline that had filed for a meta Etf to be launched in twenty twenty two. I would definitely say that Facebook has helped bring the meta to the broader market, and many Etf for issuers, including Fidelity, Prose shares, global x and first trust, and many more in Asia will be launching Etfs related to the meta now. But with the names of, like, fidelity and first trust onboard, this means that the product will be distributed amongst retail investors very quickly. And so we... If we include the various sectors in the meta from entertainment to video games, commerce, it would be very easy to reach eighty billion.
+
+By twenty twenty four. So for instance, the entertainment Etf is already five billion. And so it really depends on what you constitute as the med and what you include in to this space because it's constantly evolving, and there's so many different parts, whether it's video games, entertainment, social media. If you loop and group all of those etfs together, you can really easily reach eighty billion by twenty twenty four. So there's definitely huge growth potential.
+
+And I think this year, we're gonna see some very interesting things happen in this space.
+
+Speaker 0: Absolutely. You know, we've already seen so much excitement. And I and I think one of the things that's been truly interesting about the the emerging meta Etf landscape is how global it's been in major. You know, we've talked a lot about Korea. We've seen Etfs launch in Taiwan focused on the med.
+
+You know, maybe if we could just step back for a second, and maybe you could give us a lay of the land, you know, just even in the last six months or so, it's really blossom. Who is the biggest by assets? Who's kind of the whale in this space? You know, everyone likes to look at, like, the biggest Ct etfs always tend to, like, shine above whether that's passive or active? And then in terms of regions and just kind of break breakdown, where are you seeing the most action?
+
+What's what's what's most exciting?
+
+Speaker 1: So the meta has definitely exploded in the past six months So let's set some parameters. If we look at all Etf that has the word meta in their description. Then the first Etf would be the round ball which was launched on June t of twenty twenty one. Since then, there's been Fourteen Eta etf launches around the world with the word med in the description. I specify this because there's a lot of Etf issuers that consider their Etf to be the meta, whether it'd be a video game, tech or artificial intelligence.
+
+So we really need to set the parameters for what we consider. As there's more than ten thousand Etfs globally with ten point one trillion dollars in assets under management. So if we start including video games tech cybersecurity, then the universe gets much larger. So we're gonna stick to the definition of, you need to have the word meta in their definition. Or in their description.
+
+And so the largest Etf would be Round till, who has eight hundred and sixty three million in assets under management followed by Korea, Samsung codecs actively manage at three hundred thirty seven and then Mir asset Tiger at three hundred and twenty four. And so to provide some context, both Samsung's Etf was only launched in October last year. And so they were really one of the leaders in the space in Asia. And so both Mir and Samsung got a hundred million, which is often considered the breakeven put for Etfs in just under two weeks, making this one of the fastest growing Etfs globally. And so another interesting fact about Korea is that they now have eight meta versus Etfs with assets of one point two billion under management.
+
+And so of the eight Etfs four of them were only launched on December twentieth. And so they grew their assets very quickly, and most of this came from retail investors. So I'd say in the region Korea is definitely leading. They have one of the most Etfs and they grow the quickest, so they already have one point two billion in just a few weeks, but the largest is definitely round toe as they were the first to launch.
+
+Speaker 2: So just just again, to clarify, thank you for this breakdown Rebecca super interesting. So there are fourteen Etfs with the distinct characteristic that includes the matters in their descriptors. Out of the fourteen, eight are from Korea. Is that what you said?
+
+Speaker 1: Yeah. So of the fourteen eight are from Korea. So this really shows that Korea is really investing into the med space.
+
+Speaker 2: That's fascinating.
+
+Speaker 0: Just wanna plug into one thing you said that I thought was really interesting. You talked about retail excitement around Etfs. And for people that aren't into the technical of Etfs, there's institutional distribution, which is, you know, selling to affluent clients through private wealth or its hedge funds, you know, those types of large investors, pension funds, right, buying Etfs, and there's retail, which is just Y managing his money on the side, you know, in a in a Robinhood account or whoever might be doing that. Right? And so I I think your colleague, Eric Ba in the States and, you know, we talked about this on the Trillions podcast, shout out to Trillions.
+
+It's on Spotify Apple on the Bloomberg terminal, but we talked about how, like, video game Etfs, meta Etfs have always skewed heavily to retail distribution. You know, what... What's your thoughts on kind of can can men start to penetrate the institutional space where video games kind of failed to?
+
+Speaker 1: I definitely think there's space for institutional clients to get invested in the in this, especially now that the meta is such a big trend for most institutional clients they have a global portfolio so from an asset allocation perspective, sector, specific focused themes like meta will never be a large. You'll never be a core percentage, but it could be anything from one to five percent of their portfolio. And so with institutional money, the this then brings in those large trades, you know, the trades out of more than one million. It usually can be, you know, one million to five, ten, even fifty million depending on the type of institutional clients. And so I think with the likes of fidelity coming on board in some of the larger players, you're definitely gonna start seeing the institutional money pour in.
+
+The question is only a matter of fact of timing, You know, will it happen this year or will it happen mixture? I think everyone is looking at the tech space, and Kathy wood mention this in in her webinar that we had with her last year was a, you know, technologies here to stay. The question is how do we adopt it into our portfolio? And what access do we want? Do we want it as artificial intelligence do we wanna has meta.
+
+So everyone is investing into the technology sector, the only question is how. And so I think the meta definitely has space in for the institutional clients is just a matter of fact of how much do they allocate is a one percent, three percent or five percent.
+
+Speaker 2: To what extent do you think that one of the biggest players if it's, you know, Vanguard or fidelity or Black cross coming with their own. Do do you envision one of those big players coming with an Etf? Anytime soon. And if they do, how much do you think it will accelerate the wider adoption of investors of Etfs related to the members?
+
+Speaker 1: So Fidelity filed for their Etf last month in January and they're expected to launch in April. And so I think that it shows that there's a clear demand for it, you know, will the likes of Black rock and Vanguard follow. I can definitely see Black rock following. Because Black themselves do have a lot of sector them Etfs. So for instance, they launched a robotic Etfs.
+
+Several years ago, and it very quickly gained one billion assets in only a few months because their distribution channel is so great. And so I think that everyone is looking at this space and once they file and launch the product, it's only a matter of time before they get people on board. So an interesting fact is when first trust filed for their test. First trust is based in Illinois. And so they're purely a retail investor, and all of their distribution is done through.
+
+Various asset managers and retail players in the Us. We were discussing as a team when they filed that, you know, there must be clear demand for someone like first trust to be doing this because otherwise, it doesn't really make sense. And so I think everyone realized that the meta here to stay, and they want to be invested into it. And so that's why despite the performance of etf, I think year to date performance is down seventeen percent. We've still seen positive inflow into this sector.
+
+Even though the performance keeps going down.
+
+Speaker 0: Yeah. That's something that I wanted to drill into. And, you know, I remember last year, we were talking about this with China Internet Etfs. We, you know, we saw this with K web. Right?
+
+The China Internet stocks got whacked. But inflow were really strong. We've seen it this year with meta etfs even though some of these have been, like, dropping thirty, forty percent from their highs, you know, the Au has stayed roughly flat, meaning that there's been strong inflow. Given the and, you know, some of this is just the backdrop of turbulence with the broader market and high growth stocks, which make up a lot of the constituents in these funds, but you know, some of it has been company specific performance. We, you know, we're recording this the day after roadblocks reported earnings, and that was a, you know, a pretty spectacular drop in the stock price and that will be reflect in the Etfs.
+
+But do you think that this divergence between performance and flows can continue? Or do you think that this is something that if performance doesn't pick up in the next quarter or two that we are gonna start to see some people kind of get fed up with the theme and move on to the next thing.
+
+Speaker 1: So let's use the example that, you mentioned of K web. So for the... Those that don't know. K web is the Crane share Csi China Internet Etf. And the performance of k web twenty twenty one was down fifty six percent but the fund grew eighty percent in net new assets.
+
+So at the beginning of the year, they had three point five billion. And by the end of the year, they had six point three billion. Despite the performance being down fifty six percent. So as the performance went down, inflow went up, which is a very strange divergence. However, I think what this shows is that investors are really interested in the sector for the long haul and not really word from the day to day performance of the fun.
+
+I believe this is happening with the meta and this parallels, what we've seen in China tech. And so if we look at year to date, meta Etf performance is down seventeen percent, but inflow are at two hundred and sixty three million. So looking at Round ball Etf from the time that Facebook announced re brand to med, their Etf inflow sky skyrocketed from around a hundred million to nine hundred and fifty million in just three months. And their assets grew so quickly that they even reduced their fees from seventy five basis points to fifty nine basis points. So this really shows that investors are in this for the long haul regardless of the performance, and I think we're seeing the same thing in the meta.
+
+So a lot of investors in just want to invest into the space regardless of performance because they I think the meta is going to do well in the next five to ten years. And so ultimately, Etf is an easy way for them to get access to the meta space without having to stock pick which names they want.
+
+Speaker 0: That's a great point. And I think for a lot, particularly retail investors. Right? And we talked about this with Eric on trillions again, you know, you can have your core portfolio of passive. Right?
+
+You can have your by or your your your V or whatever passive core portfolio you want, Ag g in there. And then you can supplement it with these active exposures. Right? Med Arc, And, you know, I think when you're thinking about those sorts of things, it makes tons of sense for those to be longer term views. I mean, no one that's come on this podcast and neither Y or myself believe that this is gonna be...
+
+You know, we're gonna be experiencing the med in it's true his form next year. You know, this is a decade or more out. And so you wanna be riding the wave and writing the investment along the way. And so I totally think what you just said aligns with our fundamental view of the market.
+
+Speaker 2: And Rebecca, as you as you look at sort of the landscape, it's clear that meta Etfs are taking different flavors And so when you look at the cons constituents of these fonts, are you seeing any similarities or differences between them? I think it's really interesting going to be I believe to our audience to really understand that when you talk about fourteen Etfs already and more coming, these are not apple to apple. There's a lot of differences among these Etf. So it would be great to kinda of break down some of the key similarities key differences among these Etfs that in existence already now. Are there any that stand out that are strongly representing quote unquote true net alpha, and are there potentially some that just look like they're trying to ride the hype cycle, but you can see some flavors of Bs.
+
+Speaker 1: So for any Etfs, I'd always advise investors that you really need to look under the hood. And see what index they use and what methodology is. So for instance, the round tailed ball Etf has a custom ball meta versus index which is comprised of an expert counsel, which maps and ways companies into seven different categories. So for instance, they factor in computing power, the power that's used to support the Meta virtual platforms, payment networking, interchange standards, which our tools protocol service use operating the meta hardware and content. While those in Korea for instance, have a range of companies in the tech space from cell phone park providers, two computer games to newspaper companies that also manufacture fur and leather garments, J content tree corp, So for any Etfs, due diligence is crucial as not only do you wanna know what the index tracks but also what the replication method is fees and you really need to look at the total cost of ownership and not just the name.
+
+And so what I get is oftentimes they have Etf issuers coming to me. They're like, oh, you're writing about the better can you include my Etfs. And their eta etfs could be anything in the text base from artificial intelligence to cybersecurity to video games. And so when investors ask, you know, what should I invest in, you really need to do your due diligence because there more than ten thousand Etfs out there globally. And just because it says meta, it may not truly be a meta Etf.
+
+And so I think, you know, Matthew's has done a really good job at finding of what the meta index should be, and Bloomberg has an index on this. And so you really need to do your deal diligence of seeing what the product really is before you buy it.
+
+Speaker 0: Shout out. To the Bloomberg Med Index for Bloomberg professional subscribers that's Be meta index on your terminal. Thanks for Rebecca. Full marketing pitch, know, we're going all in on the marketing pitch on this episode. But it's...
+
+You know, this is what happens when you get, you know, two of our colleagues together on here. We have to support the products that we're building.
+
+Speaker 1: Maybe you could tell us a little bit about it.
+
+Speaker 0: I mean, I'm I'm happy to. I mean, so, you know, our index, which we are if you are an Etf you know, issuer and you're interested in licensing, feel free to reach out to me or Rebecca or anyone on our index product team, but, you know, we we built a basket of companies that we really think are you know, driving and and and really, the key enabler and key drivers of building the universe because we do have this long term vision of what it is. And so that really fuels our vision for creating a basket of companies that are the most leveraged to that investment cycle. And then out of that, our index team has taken that and created the Bloomberg Medi first his index, which is, you know, already available. And, you know, obviously, our whole index team, you know, we're open to both you know, just the vanilla play option and also, you know, customizable options.
+
+So you can definitely reach out to us and, you know, we can work with you on that, but it it is a really cool product that we have. And so I I think you know, one other thing and you mentioned it before that I that I wanted to dive into, you know, you mentioned it in regards to the to the round Ball meta Etf was the fees. And, you know, they started out. I believe at seventy five basis points, and they cut that by about a third recently. When we when we look at the broader Etf landscape.
+
+And I I know this was more of a passive phenomenon, but there was like, a race to zero. Right? It... You know, it very quickly became a race to zero in the passive world. When you look at active and you look at meta, does them cutting their fees give you caution for, you know, the Etf issue in terms of Okay.
+
+Everyone's getting in the pool, fidelity. Ever everyone's jumping in, are we concerned that some of these more, you know, niche issuers are gonna start to see fee pressure?
+
+Speaker 1: I think if we look at the fourteen med Etfs that we have that currently have meta as part of the definition. The median expect expense ratio across fourteen etf is currently fifty two basis points. And so that's really considered high by Us standards. The cheapest is currently at fifteen basis points by evolve in Canada, and the most expensive is at one percent by Fu coupon selective in Taiwan. So there's definitely room to move on the fees, but an interesting thing to note is that in Asia, the fees generally don't matter much.
+
+And the fees are usually much higher than they are in the Us because in Asia, you need to pay retro fees and rebates. To the issuers. So there's a distribution channel and people pay some fees. While in the Us, the fees have come down because you don't pay this retro session fees and rebates in the Us Has our own distribution channels. And so I don't think that the fees matters as much for Asian investors.
+
+And so it really depends on where the Etf is listed because this is now a global product that the investors in Asia for instance, don't really look at feeds. They look at more of the branding, what is the product? Am I interested in this while in the Us, you have a lot more options. And so if we look at the Etfs globally, the Us market usually accounts for sixty to seventy percent of the market share in terms of assets under management. So Asia Pacific, is only ten percent of the total market share.
+
+And so for Asian investors, what they consider is gonna be very different to what investors in Europe consider. To Us. And so I think as a product issuer, when you're looking to launch products, you need to see, you know, who are you targeting? And what is the method that you want to use because each region is so different. And so I do think fees will come down, but in certain regions, like, for instance, a Hong call.
+
+A lot of the Etf average fee is ninety basis points, and they're super successful, and they don't have to reduce their fees. While if you had the same product the Us, that would not be excess hustle product because of the competition, it would drive the fee down to, less, you know, it can even be zero basis points. So if we look at the Us for instance, Fidelity, wanted to get into the market. And so they launched Etfs that had zero management fees simply because they wanted to get assets. And so I definitely think fees will come down, but it depends on the region and the product that they're launching.
+
+Speaker 2: With so much momentum in twenty twenty two. Rebecca, you know, we have, of course, Meta, Facebook, just getting the ticker meta, the meta or and now, m mv mv, the previous meta Etf of the meta ball index is now continuing to grow. More Etfs are coming, You talked about fidelity coming out. You know, we have the Bloomberg index, which will likely bring more Etfs that are based on the index. What is the kind of key highlights that you project for twenty twenty two when it comes to...
+
+When it comes to Med Etf, who are the players that you think are going to shape the year And then more broadly, how do you think the wider economic landscape and the decline, the decrease of the of tech stocks over the last month and a half? Will shape the conversation for the for the remainder of the year.
+
+Speaker 1: So I think from a product perspective, we're currently at Fourteen... Pure Etfs at two point two billion in assets under management. So by year, end I could easily see this being double that. So more than thirty pure Etf meta Etfs, more than five billion in assets. And I think we're gonna start seeing more interesting products.
+
+So for instance, leverage in inverse. Meta Etfs coming out. We can also expect other sectors to merge. So for instance, social media gaming e commerce. A lot of these Etfs are considered rebranding themselves to a meta etfs.
+
+There's already talks amongst some video games Etf issuers and they're like, oh, you know, instead of calling it. The e game Etf, we can call it the meta Etf so for instance. And so I think we're gonna definitely see this asset grow and more products being launched. And I think we mentioned this in the beginning. When we look at Meta, you know, it's not just one trend.
+
+It's a it's a combination of a shared virtual space of commerce, video games, social media, and I think Etfs is going to replicate that. And so you could potentially see synergies amongst the Etfs.
+
+Speaker 2: Yeah. It's a it's an interesting point You mentioned, you know, I've been I've been talking a few times and about about this with with, you know, with with different people and you know, back in into two thousand, if you if you started a technology company, you you're an Internet company. Right? And and then it was, like, If you started a company in the mid in the mid two thousand, you're, you know, you're a mobile company. I think now, I think we're gonna move into a trend where a lot of companies just gonna start calling themselves a med adverse company.
+
+I mean, as super social, I have defined super social for the last twenty months since we started as a med company. And I think as many more companies referred to themselves as a med adverse company, I think we're gonna see, at least this is kind of my projection is that we might start seeing so many Etfs, as you said, not only launching as a meta ct etf, but retrofit themselves as a f because the... What it is included in meta quote unquote, technologies, product services is likely going to grow beyond consumer to industrial applications, to enterprise application. Obviously, we had a fantastic conversation recently, which will go live soon with, you know, the Vp of omni and simulation at Nav nvidia. We know that the is so much bigger than just a bunch of N entities and and games on on roblox.
+
+We're talking about a a across the board shift and paradigm shift. Of the world of technology and what it means to build these next generation applications. And and so I I I think what you're saying is is totally realistic from my non Etf expert point of view. I would be I would be personally surprised if by the end of twenty twenty two, we will not have double the amount of Etfs available in the market and double the value of assets under management. Matthew, What do you think?
+
+Speaker 0: I think everything you just said, I was gonna jump in and mention, you know, Rev from Nvidia. So I'm I'm glad you did because I was thinking the same exact thing, You know, because Rebecca hit it on the head right. We're seeing the meta emerge out of the gaming sector now. And, you know, this is what Mark Petite was saying. Right?
+
+When we spoke with him early on in the podcast is that you know, if real time three d is kind of the one of the core technologies, gaming companies have the most experience in using it. And so clearly, it makes sense that the meta is emerging out of the gaming sector. But then going forward, you know, as it perm into other sectors, we're gonna see this takeoff off in ways that we can't even imagine. I mean... And this is what Rev was getting at.
+
+It's like, if you would've have asked someone to look... You know, to... If you would've have showed them Instagram twenty years ago, They would've have said what the heck is this thing. Like, I could never imagine this ever being a thing, And and and so when we look ahead and we look at where this can go, you know, the possibilities are pretty much endless, how we can revolutionize, You mentioned commerce industrial, You know, every every single aspect of the economy. And this is what Matt Ball was kind of alluding to.
+
+He did a great Bloomberg Tv interview and was quoting Jensen Huang from Nvidia. I was basically saying, you know, even as big as the internet is today, the digital economy is still only a slice of the global Gdp. The meta can be that next step to really bring the things that are still brick and mortar and the things that are still physical goods into the digital world and increase the digital share of global Gdp, which is north of eighty trillion, possibly ninety trillion dollars now. And so, you know, clearly, the opportunities get insanely large as you start to realize all the different applications of these technologies.
+
+Speaker 2: Here is a food for thought for us. Right? Matthew, you... You've done a great job last year in On Bloomberg gone kind of laying out the the the potential total addressable market for the med over the next several years. And I think it was something around eight hundred billion dollar of of market size.
+
+Right? I think about market size and total addressable market slightly differently, and, you know, we can then figure out afterwards, how do we put in an economic value. But we have about roughly eight billion people around the world. Let's assume the meta is going to be something that you access with an Internet connection, and a pretty powerful, consumer device. Right?
+
+In some countries, it's gonna be a mobile phone, Pc game console, autonomous vehicle, space cheap Who knows. Right? So let's assume there's almost a billion billion people around the world. Let's assume the meta over the next half a decade a decade. He's gonna have five, six billion people accessing meta experiences and meta applications.
+
+Here's the beautiful thing. When we think about the meta, because we're going to to a large extent experience the med as an Avatar, we are not only gonna have one avatar. Right? As Jonathan, I'm gonna have... I'm already planning.
+
+I'm designing my identities every day. I'm gonna have multiple identities. I might have five to ten different avatars that live and exist and interact in the med. And so when I think about total addressable market from number of users I think the meta could potentially have more than a hundred billion personalities that live interact, engage, consume in the med. And we're gonna...
+
+I'm gonna want to take care of my avatars. I'm gonna wanna give them appearances. I'm gonna wanna send them to learn to to play to to concerts in in the meta to play sports. And when you think about that in this way, and let's assume we do have a meta with more than hundred billion constituents or or users, the matter could likely be at a size of an economy that is in the trillions. I don't think that's so crazy to assume.
+
+If you subscribe to the world that as humans, we are going to live in the universe, not just as real people, but also with multiple identities that are manifested as avatars.
+
+Speaker 0: I I love that. I love that idea and you know, to tie it back, you know, those hundred billion may all need to invest in Etf.
+
+Speaker 2: So... Maybe we're gonna recognize for any interesting.
+
+Speaker 0: This your thought for another day, but what does... What do Etfs look like in the meta? No. But this this has been a fantastic stick conversation, Rebecca. Thank you so much for joining us on this rainy, cloudy, gross cold morning in Hong Kong.
+
+And any last thoughts?
+
+Speaker 1: I definitely say your comment jonas of having multiple avatar really shows that the meta has endless possibilities. And like everyone before on this podcast has said, you know, we don't really know what the end goal or what it look like in five to ten years. And so there's definitely a lot of room for growth with so many options. And I think as we look at that space. And as we look at what Etf issuers are doing.
+
+Everyone's still trying to figure out, you know, what is the meta and how do we get into it? And a lot of Etf issuers are you know, using their own custom index so Fidelity is launching their own fidelity meta index. And so there's definitely a lot of room put for growth, but there's also a lot of room for synergies, potential merges, you know, combining Etfs. And so it's definitely very interesting to see what can happen because I can see certain ish Etf issuers that have very niche products, combining say their video game in their e commerce. Etfs into one and just calling it meta so that the assets grow even faster.
+
+And if that happens, you know, we can very easily reach eighty billion by twenty twenty four. So thank you very much for having me.
+
+Speaker 2: This is a great point. You're welcome. It's been great to have you here. But this is a great point because here is another thought. Right?
+
+Like, it wouldn't be crazy to assume that there might be consumer brands that will rapidly adopt meta as a frontier, they want to operate in. And if they do it, then they do it extensively, for example, a company like Nike, that has acquired an N studio named Artifacts. It wouldn't be crazy to assume that some brand, consumer brands companies could actually be part of Meta... Of Med Etfs. I I I don't think that's far fetched concept over the next you know, even eighteen to twenty four months.
+
+That would also increase what is a f could actually include? It goes beyond technology. If everything is technology, and every company is essentially a technology company. And every... And if the meta is the next big era of of technologies, than a lot of other companies that today are not part of meta, could actually be part of Etfs and Etfs, and then you may have all sorts of subsets of Etfs that are popping up.
+
+Speaker 1: I think that brings an interesting point like, meta not really defined so for instance, hypothetically if we start involving crypto and n entities and blockchain technology into it. For instance, in the Us crypto is having difficulties at the moment trying to get approval for a physical bitcoin Etf But what if crypto falls under meta then it might be under different classification. And so it really can grow to endless possibility
+
+Speaker 0: The possibility right let's send the meta. With that. I I think we'll wrap up. Thank you so much, for Rebecca and everyone. Thanks for listening.

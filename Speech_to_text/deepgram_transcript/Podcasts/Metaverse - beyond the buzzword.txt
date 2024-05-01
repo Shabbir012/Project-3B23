@@ -1,0 +1,316 @@
+
+Speaker 0: Hello. I'm benedict do C.
+
+Speaker 1: And I'm Tony Ka brown.
+
+Speaker 0: Today? Today...
+
+Speaker 1: Not med.
+
+Speaker 0: You want to talk to about Med, Med. Whoever. So.
+
+Speaker 1: You wrote a piece about it, which I actually really liked. I say that as if I don't like all the other pieces.
+
+Speaker 0: Well thank you.
+
+Speaker 1: But I specifically liked... Actually, let's let's take it set back. Why did you all of a son want to talk right about meta. We've been staying away from this topic for a while. So what prompted that?
+
+Speaker 0: I don't know. I actually sort of write two things about meta one of which I'd had in my my drafts for about two years, and one of which was was a lot more a lot more recent. And there's a lot of sort of different strands to put on because there's Ar and Vr, but there's also N t's. And they're digital transformation and e commerce and all sorts of kind of different threads floating around in different ways try and talk about them or link them together or or try and understand what they are. And so, you know, well where would good place to stop you, what does meta mean?
+
+Well, meta kind of means several things. So one layer is people often try and create like, well, what's a sense to think that ties all of these things together. Yeah. And that might be sort of an observation. You know, I did a presentation this last time last year, or I said it feels like there's here's a way of thinking about a category of stuff, which is that there's a huge amount of un unbiased.
+
+Going on. Mh. And cha o'reilly, thing and I think two thousand five where he said so this is a there's a sort of a web two point zero thing happening going and here all the things that I see is is kind of common thread across lots and lots of companies, and I'm gonna call this web two point o and say, well, here's a strand. When those things work, they really kind of capture people's sense of oh, yes. This is like a common set of theme.
+
+Of how it's happened of what's happening. And sometimes, it kind of crystallize that, and, you know, that kind of aligns what people are trying to build, and that people will kind of pull an eye. That's of what all of these ideas are floating around again to come towards and what they're were gonna mean and what we're were gonna try and build. Sometimes said it work. Or sometimes the thing that they're describing doesn't really happen or happens in a kind of a different way.
+
+And so, you know, that... That's what gig economy means. And that's what Internet things means. And sometimes those that terminology is very specific and narrows. Sometimes it's kind of super vegan hand wavy.
+
+And, you know, we're particularly in a moment now where smartphones have happened and happened quite a long time ago. Sometimes and there's lots of different things happening, and one of them are the... None of them is the thing. Of course, in unless crypto. If you're in crypto, then you know the crypto is a thing nothing else is worth bothering with.
+
+But for everyone else, like crypto a saying, there's lots of other things and what is... Will one of them be the one that really happens horse or what. And what will what what will be the kind of the key drivers that everything is kind of pulled along by in the next ten years. So that's sort of the the why buzz works and what are the buzz works? And why is this more than just bullshit if we if I can say that on this this podcast?
+
+And and the answer is well sometimes it is, but, you know, actually there's value in trying to kind of grasp what what is all of this stuff and how is it changing?
+
+Speaker 1: And I like the encapsulation piece just because I saw this sentence that stuck with me of this, you know, It's... What is it? Meta versus is like the text hottest buzz word right now with companies pouring millions of dollars into its development, and I was, oh, interesting. What's that it's, like, it's not... We're not developing the meta, the meta surely is inc so many other things.
+
+Yes. So I I think that's why I liked your piece because it pulled that a part of... The meta isn't just one thing surely. We've passed that point. Or is it?
+
+So maybe...
+
+Speaker 0: Well, so maybe two things. To say here. And the first is, yeah, what is it that people mean when they say the us? I don't think I can give a definitive arm answer to that because in a sense, it's so vague and it's so up for grabs and people are trying to grab it, but it's sort of some combination of number one Ar and the Vr will merge with games. Merge with the real world.
+
+Games will so to speak breakout out of games and games historically have been big and important, but not universal. And mean, more people use Snapchat that more people use Snapchat then have a games console. And so so true. You go sector personally I think for for out has four hundred million Da, and there's maybe a hundred and fifty million people, the games console. So, you know, game full breakout become universal.
+
+And that's something to do with Fortnite and roadblocks and popular culture and creativity and people making their own games and these becoming long term franchises, And that will be merged with the Rna, and, you know, things like Pokemon go were very, very, very early of what a some of that might mean. And so if you have this world of, you know, I'm wearing the pair of glasses and stuff in the world, and some of that's a game. And some of those are objects. And then that, of course, can hook into the n of tea frenzy because they you have digital goods that you can buy and sell, and there's obviously a lot of other stuff happening in N nxt. So some of which has nothing to do with goods or buying or selling and is...
+
+And some of it is, of course, bullshit, and, you know, scams and create and and and and and and ramping and inside the trading all kinds of stuff, but some of it is real. And so I wear a pair of glasses, and I look at you and you're wearing a cool new animation that's the latest sync from Rihanna that you bought as an N nxt or you bought from some artist that you started following five years ago. So you got exclusive access to the that drop and that you're trading it. Yeah. And so games, pop culture, Ar, vr, Entities, t goods, create economy, all of that sort of...
+
+It's a about like a massive super buzz words. And that's cemented us if that meta us is any such thing. And there's probably more stuff in there as well. So then you've got Microsoft talking about the enterprise meta, which is just hilarious, Like, surely, only Ibm allowed to build the of us. And that's one answer.
+
+And then you could pick this up and say, well, yes, but Games haven't broken out yet. And Ar doesn't exist yet. And then apis are still like an incredibly small thing actually, and blah blah blah blah blah. But I think there's sort of two interesting strands there. One of them is why this is bullshit and the other is why this isn't bullshit.
+
+The why this is bullshit argument is that this sounds a lot like people talking about the information super highway in the early nineties. And so you get a whiteboard and you would say normal consumers have computers now, and they'll be broadband networks and color, and people will share pictures and maybe they'll be digital cameras. And there might be connected information services, and maybe you can have these newspapers sent to you over your broadband network, and maybe Pcs will go away and we'll we'll be doing this on Tvs, and it will be like a rich interactive multimedia experience. But remember words like interactive and multimedia, You have to be quite old on to have heard those words.
+
+Speaker 1: I remember Cdi, Cd Rom Interactive.
+
+Speaker 0: Yeah Oh, yeah Exactly interactive Cd Rom. Well, this was like this brief brief moment before which is again, well, what would rich media look like on a computer, and how would that... How would you do that? And, of course, information super highway was there was one of them, and it was going to be built by about ten big companies, you know, like British Telecom and At and T and Disney and news and Bell labs and New york Times would all get together and make the information super highway or it would be a bit like cable Tv. In that it would be kind of centrally controlled and programmed.
+
+And if you want to... And and somebody's idea for the cool thing for the young people would be like community seven subs section b. And, of course that isn't what happened at all because the Internet created this the crucial part of the internet is permission less innovation. That suddenly anybody could publish anything. And so that whole idea of central control exploded, and now you hear people Facebook's saying where we're going to build the meta That's like sitting down in nineteen ninety four and saying well now, we're gonna build the web.
+
+You know, it's like News corp. It's like News corporation in ninety ninety four saying, oh, well, what we're gonna do is we're gonna build the web, but that's not how it works. Now it's really not. I mean, a story about Steve Jobs and Craig Mccoy, Craig recorders as a pioneer mobile phones in America in the nineties talking about the Internet and Craig says we should buy it. Which was under I like he was an incredibly clever successful man who will not understand a huge amount about technology.
+
+We're not... Just so you understand like, that was not a obviously stupid thing to say.
+
+Speaker 1: Yeah. Yeah.
+
+Speaker 0: And it's just same now We say, well we'll we're gonna to build the universe. I I don't think that's how technology works anymore. I don't think anyone can build there's gonna be the anything. And I certainly don't think that you can build it. So that's the bullshit strand.
+
+Speaker 1: So wait. Okay. But if you're not, and this might be answered in that you're not so strand. If you're not building it, how does it come together? And is it just all of these other pieces coming together, making it possible and when my head also goes that I think we can't overlook the fact that the context feels right right now with all of us Post pandemic, remote working, spending way more time or so it feels like online that if this moment feels right for the meta to, you know, to be actual, an actual reality or something that's happening.
+
+So
+
+Speaker 0: let's talk about culture and then talk about how something might get built.
+
+Speaker 1: Okay. I love that.
+
+Speaker 0: Maybe it may. Order. Because I think the not bullshit thing is the culture thing, which is the idea that it exists you know, any meaningful form. I mean, at the moment, somebody's... You get a whiteboard and you write vr, social, crypto, place, t goods create economy and you draw a box around this in a pop box you write meta of us.
+
+Like, okay. But that doesn't mean it exists or you can buy it or invest in it. It's just that a way of thinking about a whole bunch of stuff that's already out there, some of which exist some of which doesn't like, ey doesn't really exist yet. You know, On smartphones. Yes, Glasses is no.
+
+Some of the success, some of it doesn't. There's there big questions about it, you know, we talked about Vr well, vr work, maybe, but it is like, you know, sitting down in nineteen ninety three and getting a box. A whiteboard and writing broadband. Picture sharing. Messaging, computers, interactive multimedia services and drawing a walkthrough around it.
+
+I, yes. But all of that stuff will... Some of that stuff will happen, but not like that. But what will happen is like, that sense of software continuing to break out a software into pop culture or The more that this stuff moves and becomes like a universal basic normal part of our lives, the more that we take ownership of it. I mean, the stat I always like here is online dating that two thousand seventeen, forty percent of all new relationships in the Usa started online.
+
+And so like four zero percent. So this stuff has gone from being geek key and computer, and you have to be computer literate to being, like a normal part of paper for on life, and we're only of, like, a small part of the way through what a smartphone culture, what does internet culture mean. And people who write about Internet culture mostly right about Geek geek use the Internet, not like, no. It's just everybody now. And so I think that sense that we're only very, very early in what it means that all of us have a computer.
+
+It's a bit like, you know, car culture. You know, what happens once everyone has a car, and that's suburb and drive thru and, you know, parking. You know, parking was in fifties meant, you know, teenage age couples were going and
+
+Speaker 1: out.
+
+Speaker 0: And and, yes. And when they park, then they would do other things, but it was called parking. And, of course, you can't you can't do that without car, Like, what do you do where you go? And so all the things in culture that change when everyone has a car or access to a car, we don't have any real... We haven't finished that with smart just and we won't it.
+
+Know what that will be for another twenty years. And so the the non bullshit part of meta is, you know, a wear pair of glasses, and I see the cool thing cultural thing that you've done. Whatever that is or whatever that might be, the cool cultural stuff you do, and that is some of awful that is, and it's some of Instagram and Tiktok r, and some of what's snapchat is, and some of our Roadblocks is is that cool cultural thing you can do that isn't about software. It just happens to be done with software.
+
+Speaker 1: And look, that's the results that that results in Buzz words, Buzz words do describe these cultural and social situations and moments that are happening. They don't come out of nowhere. That's what I always. Know people some... A lot of people try and push the buzz words, but they are representation.
+
+Of this.
+
+Speaker 0: And you get... You know, this is what gets you to phrases like punk. I mean, punk exists before it was called punk and you know, not that I'm a a great cultural historian. But you know, there are these the social phenomena happen and reflect how people wanna feel, and, they get given labels, and sometimes the labels stick and sometimes they don't... And sometimes someone creates a label and that turns out not really to be a thing at all.
+
+Speaker 1: And They have their have of spoke about as we? Yeah Yeah.
+
+Speaker 0: And that's sort of what's happening here. I think the other side of this is how does that get built And this is partly a meta us conversation, but it's also I think a kind of a fascinating crypto conversation because You know, I think there's an enormous amount of bullshit said promoting crypto an enormous amount of bullshit said criticizing crypto And the bullshit, you know, the bad way to criticize crypto is to say, here are all these amazing complex rooms and all these different layers and it's all incredibly complicated and you have to understand forty five different things. Mh. Before you can do anything. And, you know, I remember getting on the Internet in the mid nineties.
+
+And, you know, until like, windows ninety five, or maybe even three point. But, you know, windows didn't have Tcp Ip. So you buy a modem and then you'd need to get you to get a floppy test to install the software that would just allow it to access the Internet, not the web, just the Internet. And then if you wanted to have a website. I mean, maybe this is even more kind of fruitful analogy.
+
+You imagine, if you want it to have your own website in like nineteen ninety six. What would you do? Well, either you install a web server on your Pc. And a lot of people thought that was how it worked like a web browser it would also be a web server. And it would also be a web editor, so would load a web on your...
+
+In your web browser and you could edit it. And this is how Tim Has Lee built the original web browser. So the idea that this was content that you would consume and read, but as opposed to documents he would be editing. Was not at all clear and say Microsoft built a Web browser into word in the mid nineties for this reason, late nineties for this reason. You would be editing Html was like editing word documents.
+
+Then people didn't realize it with morn was publishing. And So then. But obviously, if you don't have an ethernet connection at home, you can't run a web server from your Pc because you'd have to leave the phone line on all the time because you didn't know broadband didn't exist. So you're gonna need space on the server that is connected to the Internet, which means a server, which means you're gonna need a unique account and a log to that server with a home directory, you're gonna need to connect to it via Tel net and configure the permissions for this folder. And then you're going to need to write Html files probably in a text editor and upload them one by one using Ftp.
+
+Speaker 1: This is a great segment for people who before are, the good old days.
+
+Speaker 0: Yeah. And if you want, you know, your own domain name. I mean, domain names aren't easy now. But we saw what happened to Facebook last week. Alright.
+
+Domain names are like this kind of dark connotation. You wanna send an email from your own domain. You're gonna need to know about Mx records. And they're going to be need to be running your an email server. There was no Gmail.
+
+I mean, hotmail people's minds on that basis. And so to look at Crypto and say, well there's all these acronyms in it's complicated. Like, well, yes, But if it's useful, people will build solve all of that. That will get that is solved bowl that can get abstract and simplified. The interesting thing is, of course, he abstract and the simplifying me to get more centralized.
+
+Almost inherently. Talk a
+
+Speaker 1: bit more about that.
+
+Speaker 0: Well, either you have fifty different apps and you need to use all of them or there's one app, then it's says one app, then it's not decentralized or it's sent... Or it's decentralized in a different kind of a way anyway. But no, the thing I was sort of thinking about in that context was it's not just the complexity is just the lack of clarity and what all the components would be. So it was not remotely obvious that it would only be webb. So there was a, and then there was a go, which was a sort of pro web that didn't work as well.
+
+Got absorbed into websites and then disappeared. And then there was Ftp and email and use and And then lots of people trying to create their own parallel networks, so with things like Point cost, which almost got bought for over half a billion dollars and fucked it up and disappeared. And meanwhile, of course, you have comp serve and Aol as a sort of parallel private... And Microsoft network, which is these parallel private. Networks that happened have a little a little port that you could go out onto the Internet from their own sealed bots.
+
+And it was not clear for quite a while that the where it was only going to be the web and email. It was weird like, you think about this now, but, like, I mean I talk to somebody people who are working on a wallet application that lets you at. That lets you send a message to somebody who owns another. Is it another bit crypto wallet. Like, we understand without questioning that if I go to a web, my web browser has a reload button, and a forward and a back, button, but it doesn't have a message the owner of this website button.
+
+That's not like inherent in how the web works. They might put an email address on that button but that's a completely depth for different technology. In the same way you can't edit the web and like, and about. Remember track bags. So links are one way.
+
+So I can't tell who's linked to my web page. I mean, I could use Google and maybe try and work it out and Look at the server logs, but like it's not like a two way system. It's not inherent in links that the links show up on my website when someone links to me. And that was also a way that people thought that the system should get built. And so, like, all of this stuff coalesce through experimentation, trial and error network effects, people scrambling each over over each other People trying to build stuff that was useful.
+
+Mark had recent added photos, embedded photographs to the web and people were really angry, Mike Tim Be was angry with him. That you he was doing that.
+
+Speaker 1: What was the argument for why Or? Like...
+
+Speaker 0: You should have to ask Mark. But no, bit big because you were... But And, you know, this whole sense now that it was all obvious. And of course, that was how it worked. And and we need to decentralized it all Well, there's there's different strategies you can take it because one of them is a foolish of thinking you can just decide how it's all gonna work and saying it's going to be the web.
+
+The other is as I look at crypto now, like, I have, you know, I'm not if by any means a crypto expert but, you know, it is clearly there's forty five different things that might happen. And people are deaf are trying to build both horizontal vertically, like more and more layers. But also horizontally, what are the applications is is the the wallet in some form sort of an analog of a browser in that this is your device that your your your primitive, Your building block your home that connects to other services maybe. Maybe not, Maybe there'll be other layers of distraction on top. Will it be centralized, decentralized?
+
+Like, what will be the forces that will pull it into one user experience instead of lots of user experiences? Do you need to do that for people to be able to understand what the fuck to do. You know, you know, what's the difference between saying it's too complicated because there's four hundred things and that will get fixed and saying the web is too centralized and we want it decentralized well, this decentralized me now you've gotta learn four hundred things. And, like, I don't... I'm sure people have opinions about all of these that are may be more informed than mine.
+
+But the kind of the point is we like all of this stuff is still wide open.
+
+Speaker 1: We just don't know.
+
+Speaker 0: And but that sense of, like, complexity, like, the stuff that gets the complexity that gets fixed or rather that gets abstract, so you don't need to know you know, when you put pictures on your Instagram page, you do not need to know how it's doing that. The irony, of course is, you know, in many ways, Our Internet experience it's already massively decentralized because most of it isn't happening in the browser anymore. It's it's happening in Safari. It's happening in Instagram and Whatsapp and Twitter and Telegram and signal and those are all different things. And you don't need to know if they're using a http or not.
+
+I mean, who cares so using Ip, who cares well be protocol are. He's which is... How I could talk about this all day. But the other fascinating thing just as I make that point is how You know, you can look at ios and say this is very, very closed. But there's a minute there's a million apps on that.
+
+And you, you know, you can look at Windows and say it's closed, but it was open to developers. That that's why they're all those apps and it was open to Oem. So that's why there were millions of Pcs. You so it's closed on some levels and open others. Ios is closed to two Oems and open developers, but not as open as Windows or Mac.
+
+But that comes with benefits to use it's in that you can install an app and trust the app. And so those sort of, you know, the we four different dimensions of what's the complexity? What's the layer of abstraction? How do you simplify? How do you combine things into fewer experiences so that everything works, which experiences is which layers is it open which layers is it closed?
+
+Why is it open? Is it open so that people will be a little wall trust it, which was the android argument or linux argument Well, and so that people can work on it? Is it open so that you can build an ecosystem. Now Ios isn't open so that you work on yourself. It's open so that you can pull the ecosystem.
+
+You so which layers need to be open. And what will that do? And so you've got these kind of all of those dimensions of what is open and clay, centralized, decentralized complex, simple, controlled, uncontrolled. Oh for crypto frankly white happened in ways that they were wide open for the early Internet. Also in many ways why open source.
+
+And both the Internet and the open source came with all of this ideology. You know, the Internet hated government, open source hated car capitalism. A crypto hated government again. So you know, you get all these people say, oh, it'll be be great. We'll get rid a censorship.
+
+So most people kind of... That thing that you're calling censorship, other people call child porn. So there's a difference of attitude here.
+
+Speaker 1: I like that evolution of just like it seems like everything... It all starts.
+
+Speaker 0: But it's also like there are these very powerful forces. That resulted in the things that you now don't like. And it wasn't that Microsoft was evil, or that Apple was evil or the Google was evil. Maybe they were, but that wasn't why we wanted to have one ios os and not twenty. All of which is a sort of a long way of saying, I don't think there's any in the future.
+
+There's not a the universe or the Vr or the mobile this, it's just lots and lots of stuff.
+
+Speaker 1: It's development. Yeah. Based on everything that you've just said there. And for the last couple of days I've been thinking about? Like, how does this then?
+
+Let's not call it the meta. But how does everything that you've just described? Fit into the real world economy. How are we then bridging that gap, and we've spoken here about world roblox and Fortnite both of which, you know, we've gone into detail some amount of detail, but they're both kind of trying to create that bridge between the online space and the Real world economy and actually making money. And I spoke to you just before we joined this call about feeling very old when someone mentioned to me the direct to Ab avatar I forget, direct to consumer.
+
+Do direct to Avatar, which is this whole business model idea of basically selling products directly to, Avatar, or digital identities entities. But what was interesting with that is you then don't need a supply.
+
+Speaker 0: Yeah. Avatar is definitely on the white... Avatar definitely
+
+Speaker 1: On the whiteboard. Yeah That. But then it is... If you think about this, whole marketing idea of direct to Avatar. You don't need to worry about the supply chain.
+
+But, anyway, I've been thinking about, so how does this all fit into the real world economy.
+
+Speaker 0: Well, so I raised also like, a piece tang gene about meta in which I mentioned earlier. And care and caring and Supreme. And say what else you age? I mean, you could sort of go to history of the luxury goods the fashion industry. Back to the fifties.
+
+The model in the fifties was and I'm gonna simplify this massively, but the model in the fifties wall that you had a Couture house in France that made a tailored evening gap. Yeah. That was expensive. The... An American department store, like, there would be a luxury department store, like, I'm magnum, which I think was in San Francisco.
+
+While. I forget anyway. So I meant there are hundreds of department stores and they would send a buyers to Paris, and they would buy some of these dresses. They would buy, like, one of that dress and one of that dress. Not like an order, they would buy one.
+
+And on the explicit open bank, it premise that they were gonna take it back San Francisco and sell copies. That was what that was the deal. That was that was the model that you, you know, that that dior would sell these dresses to paris social lives in London and New York comparison, and then they would sell, but they would also sell one of those dresses to each of twenty department stores who would sell cheap copies. That was how it worked. And then you get ready to wear.
+
+And, again, I'm simplifying this massively, and if Saint laurent, Pierre basically decide to do that themselves. And they Sandal will start selling ready to work. And so that step two, again massively simplifying this. And then step three for the sake of argument is that instead of these little independent companies, many of which are sort of owned by weird random corporates like the owned by John chemicals company or something or car company.
+
+Speaker 1: Insane
+
+Speaker 0: That that instead, there will be a... A company that owns lots of them and provides the capital and the management support and the Cfo and the distribution and the manufacturing backup and can build you the stores. And when you want to retire the... The management scrutiny, you know, can swap in that, the designers over time. And so it becomes a platform business in a sense.
+
+With many of these business these individual they call the Mai on top. And so if you don't know it's like pretty much every major fashion label you could think of, or like say two thirds of them are owned by either L caring or small. And there's some that are independent, but me an awful lot of them are owned by them. And the reason this is interesting to me is that here you are selling your mass manufacturing mass remark and mass retailing a bespoke craft individual item. And the same, you know, an analogous point for supreme.
+
+Here you have a piece of injection molded plastic and nylon and you're persuading people to queue up outside your store for ten hours and tell them that it's unique. And the only reason it's unique is you told them it was unique and you, and you're gonna make two hundred or whatever the drop is, which is exactly the same sort of set of around. I and mechanic, but it's the same.
+
+Speaker 1: But it's the same psychology. Yeah.
+
+Speaker 0: Yes. How are you want you know. Here is something that it, you know, but and, you know, you could go both sort of and say well that the seven billion people on earth, and how do I tell myself that I'm not one of seven billion people and I'm unique. And I'm me, and I'm different can the answer is give your lots of money or one answer. Or alternatively you your other answer, I would never buy any of that stuff, and that's your web being unique an individual that's very cynical.
+
+But, you know what you know what I mean?
+
+Speaker 1: No, But it's no, but it's very true. It's this whole concept that we we are actually all taking these tiny decisions to make ourselves feel.
+
+Speaker 0: Absolutely. And part of that is to reason I went on this sort of long digress. Is how does digital fit into that as digital is no longer just a word processor. Or web browser, Digital is now plus much your identity as your music or your place, or become part of your music in your clothes and your identity and yourself brand, how you regard yourself. And so if Ar let me express myself in some way.
+
+Like, I do something and people wearing Ar glasses see it or experience. That could be a thing. If crypto, you know, if Nxt let me provided some compelling mechanic to let me buy and sell or express that form of identity. If it was like a validated way of showing that I knew about that band first. So I'm picking pop culture status things.
+
+Knowing nothing about pop culture, But you know what I mean? You know, you know, it's like the frame stub to walk to wood woodstock. On the the boomers wall, you know, frame ticket stuff to Woodstock, you know, or the first... The first Beatles Lp or, you know, Yes. I was, you know, I was at the Nirvana first concert in New York or whatever it is.
+
+Some of that is you don't... You're know it's not about telling people, but some of it is. And even if it's not about that, what is the digital equivalent of the first Nirvana concert?
+
+Speaker 1: Oh, we can... We're not gonna do it, but you... There's a whole fred to pull their on fandom and cults and just like that feeling of belonging and, yeah, It's fascinating.
+
+Speaker 0: And I don't want to just say that it's just about one up and shift stage signaling, but it's about culture and how you think about what something is and where you fit within it. And so, yes, if the met, the the us is kind of bullshit, but the concept of digital and aspects of that, whether it's Ar or Vr or entities or, you know, social or gain or something continuing to expand massively within that. You know, that, I think is is is hard to disagree with.
+
+Speaker 1: And everything you've just explained there bernadette so just it makes sense when you think of it in that realm, that if we are spending more time online, and we are spending more time, whether it's Vr, games wouldn't you name it. Then there is them a star. It's normal. It makes sense that there is that desire to stand out and to feel unique. It makes sense that Nike did a job of virtual Jordans in Fortnite.
+
+It makes sense that Gucci is selling handbags in Roblox. Like it all starts making sense if you take that lights the human nature of things.
+
+Speaker 0: Of course, it is now, of course, you can flip this other way and say when Gucci bale do that. Is this real consumer activity or is this an budget and marketing stunt because force happen in second life. And, you know, an awful lot, you know, I... You know, it it it's not particularly we talked a talk to at the beginning of this about, you know, invalid criticisms and say well, we have that in second life. It's kind of an invalid criticism.
+
+Because, you know, with awful a lot of stuff, people try and do it first and don't get it right. People try to do smartphones in the nineties.
+
+Speaker 1: The timing is wrong well the tech is in there.
+
+Speaker 0: Yeah. The timing is wrong. The text wrong when you haven't got the formula right it, and it's not when people, you know, my myspace didn't quite work or my myspace was there and then Facebook too much better and blah blah. But, you know, you do need to always to be conscious. I mean, I remember years long very a long time ago in, like, as it might be two thousand.
+
+The hot mobile service in the time entered to Doc, had a mobile operated vending machine in a in a train station in Tokyo.
+
+Speaker 1: This
+
+Speaker 0: is very very exciting at the time. And this is interesting. How does this work? And so somebody asks what are the dopamine engineers, one are the users. And they say as it might be well, twenty percent people were for Day.
+
+Twenty percent people work for our competitors. Twenty percent twenty percent consultants, investment bankers.
+
+Speaker 1: I'm just percent consumer.
+
+Speaker 0: Engine engineers. Like actual consumers none. It's only people in the industry. And so, you know, when you see, you know, Bale Sci sold a handbag and well, okay. Who?
+
+Yeah. Did they did they? What exactly did would what we talking about here. Are we talking about an experimental budget and a marketing stunt. And this is a great challenge in trying to assess traction in Crypto is you know, lots of people bought the token?
+
+Okay. But why? A did lot... Is it actually lots of people or is it the same people buying them back and forth and watching the trade up? But be, did they buy it because they really enjoy the game?
+
+Or do they buy it because they think it's going up?
+
+Speaker 1: And you can see from a brand and consumer perspective. Are you doing it to prove a point? Are you doing it because everyone else is doing it? Are you... Or are you truly doing it because you...
+
+Fine and I have this a lot conversations with people in N? And like, why why are you investing in it? Like, what you what is... I, what are you loving about it? And I have to say most people say it's, like, I feel I have to do it.
+
+As I'm missing out or something. Everyone is talking about it, and I don't, you I've got the fear of missing out. Complete Yeah.
+
+Speaker 0: I mean, I was I was at Nbc When when, second life happened. And, you know, it's hard to explain to young people now, but like, there was a period of like, six months where absolutely every big company was spending millions of dollars each building your second life ireland, like everyone... And and it's just like the cost. If you think, you know, what does it cost to build a second You got build this Sweet Island and you've got to staff it and you got, of course, it cost like couple million dollars. So everyone did a second life island and they did it for a bit and nobody came and there were no users, and it was all, like, a complete waste of time.
+
+And so everyone, yeah, so, well, that was a waste of time. But it you had to do it.
+
+Speaker 1: You had to chop it.
+
+Speaker 0: Yeah. You know, this is... You just have to understand how marketing departments and giant companies work. Of course, you have that. No, you at, you know, what are the digital people at l?
+
+I don't forget your owns bale, But, of course, if there's an key project. Of course, so it's because they would not be doing their job properly. They should have Projects. They should experiment. They should go and sell it.
+
+And, of course, you know, would be... I would be... It would be entirely unsurprisingly if it turned out that the Gucci handbag was bought by somebody from another job. She goes company with a strategy budget. From the strategy team of another luxury goods company.
+
+It's like, so we went and we saw it was, like, and they've done like a ten page powerpoint explaining what the purchasing journey and change it to the voice.
+
+Speaker 1: And on the other end they're sitting there going, We actually sold the handbag.
+
+Speaker 0: I had this conversation with a watch company, a company that made smartwatch watches. And they've been trying them for sort of fifteen years. And so they showed the picture of the palm smart water that they made in light two thousand one, and the founder is like, Yeah. I think we sold three of those. And in all three thousand like three.
+
+So, you know, I'm I'm I am being cynical, it's there is a huge amount of real activity here. But it's quite hard to pull apart what is the real activity from what's speculation. And that's kind of the feature. It's a feature crypto that the speculation is, you know, and this is not a criticism or some cynical comment at all. Very explicit in the whole concept the original bitcoin paper is speculation John starts to network and reward early adopters.
+
+And so that's very con confounded is a way of looking at this stuff because it means that the speculation is signal. Whereas, you know, when Tesla share price goes up, that doesn't prove that Tesla's got autonomy working. It just tells you lots of people think Tesla's is doing well. It doesn't demonstrate that it is, and it doesn't help Tesla. Except that they can sell stock obviously.
+
+But the price going up isn't cash tesla's bank account whereas a token going up is a kind of attraction for a product. This has taken us a long way from from meta. But is this sense of how how stuff gets built.
+
+Speaker 1: But I... Look. I love that we started to talk about meta, and we talked about the fashion industry and the different the different eras and the different business models of the fashion industry. I I I think where we landed is actually the most interesting is There's no doubt there's a lot happening. There's a lot of activity.
+
+What it's just fascinating to think about what percentage of it of is which is normal people trying to figure it out brands testing it out because you obviously have to, if you wanna stay ahead. What percentage of it, people actually believing that this is the future and they're investing time money and effort into it.
+
+Speaker 0: A lot of people believe it's the future. But the... You know, the... This hugely difficult question in assessing any crypto project is to say there's an awful lot of people betting that this is the future. What is that telling me?
+
+That's telling me a lot of people think this is the future. That's not quite the same as saying, wow. Have you seen how many pictures were posted on Instagram yesterday? That's not the same thing. It's related, but it's not white the same thing.
+
+Speaker 1: The willingness for to be the future is doesn't mean that it absolutely is the future.
+
+Speaker 0: But it's both, that's the problem. If for a stock price, there's no connection.
+
+Speaker 1: Every time I think I've tried to simplify you come back.
+
+Speaker 0: So this is the this is why it's complicated. This is why it's up. The stock price going up does not help the company except that it makes them easier for them to write. Capital by selling stock and issuing stock options, but the price going up itself doesn't tell you that they sold more product. Where I was a token activity in the token is both people speculating and actual real use.
+
+But when look, you know, when somebody plays an game, and they pay two thousand dollars for something. Are they really paying two thousand dollars or are they swapping their ethereum game into another token? In the belief is taken will go up faster or both.
+
+Speaker 1: And I think that's the piece that I love so much about all all the stuff that's happening online is that a huge element of creativity and the fact that there are just know... It feels like there are no boundaries. Like, the creativity is endless. And How you think of that in the fashion space. Like, you can yay and build whatever you your imagination can come up with.
+
+Speaker 0: Well, this is Christ line outlook look for geek energy. Now, of course, sometimes that takes you to new topics. And drones and Sweetie printing. But it also takes you to Vr and it takes you to crypto. You know, what are all the clever people and sell value working on at the weekend, and a lot of them are working on Crypto.
+
+And some of them are working on it for the money, but most of them aren't just working on it for the money or they're working on it because I think here is his substrate. In the same way that ios was a new substrate where suddenly, there was this completely blank that's where you can create anything. And before that, the web was a completely blank canvas where you can create anything. And before that f Pc. Mh And also Pc, I mean, you know and the late seventies Pcs were this amazing thing that suddenly you anyone could get a computer.
+
+Now a number of people you could do something with acute future by itself with that operating system was pretty small, But if you were one of those people, This was amazing because previously, you had to kind of try and wait and get time on a mainframe. At a tab window. And now you could have your own computer and you could do whatever you wanted with it. Which you'd never been able to do before, and that you get that substrate and then, you know, the Pc and operating systems and then Windows and Mac, create this layer of abstraction that means massively few more people now have a substrate and you can do stuff with it. And then the web gets you this unlocks massively more created capability.
+
+And then ios and Android or another wave of that. And that Crypto is kind of another wave of that. That creative possibility that you can just make something.
+
+Speaker 1: I like that. So with every new wave, there's like, a blank canvas, look out for the geek energy and look account for that creativity that comes out of it.
+
+Speaker 0: Something wise that Yes.
+
+Speaker 1: Sun or something like that It's great to end.
+
+Speaker 0: Yep.
+
+Speaker 1: Amazing.
