@@ -20,9 +20,9 @@ FOLDER STRUCTURE
 
 ├── ...
 
-├── Models              # This is the folder containing the pdf machine learning model
+|   ├── Models              # This is the folder containing the pdf machine learning model
 
-  ├── machine_learning        # This is the machine learning code file
+|   ├── machine_learning        # This is the machine learning code file
  
 └── ...
 
