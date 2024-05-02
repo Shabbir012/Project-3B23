@@ -2,8 +2,10 @@
 Project 3 GitHub Repository
 
 FOLDER STRUCTURE
+
 .
 ├── ...
+
 ├── Data              # This is the folder containing the pdf files, data gotten from various websites/pdfs after scraping. 
 
 │   ├── PDFS        # This is the folder containing the pdf files
@@ -13,9 +15,11 @@ FOLDER STRUCTURE
 |    ├── NegativeDataset.zip       # A zip file containing all the scraped data
 
 │   └── cleaned_dataset.zip        # A zip file containing the cleaned speech to text dataset and webscraping dataset
+
 └── ...
 
 ├── ...
+
 ├── Models              # This is the folder containing the pdf machine learning model
 
   ├── machine_learning        # This is the machine learning code file
@@ -23,6 +27,7 @@ FOLDER STRUCTURE
 └── ...
 
 ├── ...
+
 ├── PRM             # This is the folder containing all files/tables/diagrams used for project management
 
 │   ├── Agile Test Plan      # Test plan
@@ -44,20 +49,25 @@ FOLDER STRUCTURE
 |   ├── Risk Assessment      # risk assessment table
 
 │   └── webscraping_pipeline.png        # web scraping pipeline
+
 └── ...
 
 ├── ...
+
 ├── Web_pdf_scraping           # This is the folder containing the code files for pdf/web scraping
 
 │   ├── pdf       # This is pdf scraping word file
 
 │   ├── websites       # This is the code file for speech to text
+
 └── ...
 
 ├── ...
+
 ├── Speech_to_text           # This is the folder containing the code files for pspeech to text
 
 │   ├── 
 
 │   ├── 
+
 └── ...
