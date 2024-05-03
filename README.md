@@ -39,6 +39,11 @@ Non-functional requirements:
 
 - Running the speech-to-text code in PyCharm or Python shell​
 
+  Examples of comments that people make about the metaverse:
+
+   ![image](https://github.com/Shabbir012/Project-3B23/assets/152379444/226a4913-20c8-4d44-8d65-6e8dd809b320)
+
+
 # Web Scraping
 Web scraping involves getting data from various web pages/social media whether structured and unstructures and using it to inform decision making, gain insights or do a comparison.
 Here is our pipeline:
@@ -96,8 +101,6 @@ This is the folder structure:
 └── ...
 
 # Data Pre-processing and Machine learning models
-
-![ML_pipeline](https://github.com/Shabbir012/Project-3B23/assets/152379444/74de9ae3-54c8-4d5d-b07f-0f99c3341626)
 
 For data pre-processing, 
 **Data Cleaning**
@@ -176,7 +179,7 @@ Here are all the files that were used for project management and to monitor the 
 └── ...
 
 **Project Outcome**
-As a team, we were able to develop a machine learning model that could perform sentiment analysis. We also got data insights for Tango Eye which they could implement as a growth strategy. Due to the fact that we got a high number of positive sentiments, we have advised Tango Eye to delve into the world of metaverse as it holds various prospects for them.
+As a team, we were able to develop a machine learning model that could perform sentiment analysis. We also got data insights for Tango Eye which they could implement as a growth strategy. Due to the fact that we got a high number of positive sentiments that negative ones, we have advised Tango Eye to delve into the world of metaverse as it holds various prospects for them.
 
 ![image](https://github.com/Shabbir012/Project-3B23/assets/152379444/69857aee-daf0-4ee4-9b41-017b924548a8)
 
