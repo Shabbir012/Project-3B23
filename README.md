@@ -78,7 +78,11 @@ This is a picture of implementing webscraping in Pycharm.
 
 
 # Speech-To-Text
-This involves converting any kind of audio files to text format. In this project, podcasts were mainly used and they were gotten from Apple. The library used for this is "Deepgram".  **Before, this code can be run, you need to create an account with Deepgram and get an API which must not be forgotten.**
+This involves converting any kind of audio files to text format. In this project, podcasts were mainly used and they were gotten from Apple. The library used for this is "Deepgram".  **Before, this code can be run, you need to create an account with Deepgram and get an API which must not be forgotten.** **The codes cannot be run in Jupyter notebooks.**
+Here is our pipeline: 
+
+![image](https://github.com/Shabbir012/Project-3B23/assets/152379444/5f9ebfe7-db4b-4cc1-bb54-fde5924972f3)
+
 This is the folder structure:
 
 ├── ...
