@@ -69,6 +69,7 @@ This is the folder structure containing all the data extracted/scraped from both
 │    └── cleaned_dataset.zip        # A zip file containing the cleaned speech to text dataset and webscraping dataset
 
 └── ...
+
 All code files are in .ipynb format and could be uploaded to a jupyter notebook. However, other IDE's like Pycharm, Visual Studio Code or Python shell could also be used provided that all libraries are installed in the respective IDE's.
 This is a picture of implementing webscraping in Pycharm.
 ![Screenshot (469)](https://github.com/Shabbir012/Project-3B23/assets/152379444/86ec357f-193c-46f7-be83-27937d1cb4d8)
@@ -77,7 +78,7 @@ This is a picture of implementing webscraping in Pycharm.
 
 
 # Speech-To-Text
-This involves converting any kind of audio files to text format. In this project, podcasts were mainly used and they were gotten from Apple. The library used for this is "Deepgram". 
+This involves converting any kind of audio files to text format. In this project, podcasts were mainly used and they were gotten from Apple. The library used for this is "Deepgram".  **Before, this code can be run, you need to create an account with Deepgram and get an API which must not be forgotten.**
 This is the folder structure:
 
 ├── ...
